@@ -1,704 +1,704 @@
-,tconst,ordering,nconst,category,job,characters
-574972,tt0068284,6,nm0868681,writer,screenplay,\N
-574973,tt0068284,7,nm0462849,writer,screenplay,\N
-575698,tt0068361,6,nm0140643,writer,with the collaboration of,\N
-577640,tt0068575,6,nm0307024,writer,screenplay,\N
-579689,tt0068805,6,nm0102840,writer,screenplay,\N
-611620,tt0072431,6,nm0791217,writer,"based on characters in the novel ""Frankenstein"" by",\N
-661916,tt0078087,6,nm0733015,writer,story,\N
-661917,tt0078087,7,nm0000626,writer,story,\N
-682725,tt0080436,6,nm0918518,writer,story,\N
-720803,tt0084732,6,nm0628058,writer,story,\N
-790728,tt0092632,6,nm0174304,writer,"based on the book ""The Religion"" by",\N
-790729,tt0092632,7,nm0004111,writer,screenplay by,\N
-794360,tt0093036,6,nm0028892,writer,novel,\N
-823919,tt0096378,6,nm0089634,writer,story by,\N
-823920,tt0096378,7,nm0304665,writer,story by,\N
-823921,tt0096378,8,nm0541632,writer,story by,\N
-855962,tt0100029,6,nm0913027,writer,earlier screenplay,\N
-856103,tt0100046,6,nm0179896,writer,\N,\N
-904820,tt0105698,6,nm0745330,writer,written by,\N
-904821,tt0105698,7,nm0500609,writer,written by,\N
-904822,tt0105698,8,nm0002041,writer,written by,\N
-992120,tt0116059,6,nm0500329,writer,written by,\N
-992121,tt0116059,7,nm0438230,writer,written by,\N
-997164,tt0116671,6,nm0656716,writer,story,\N
-1031621,tt0120710,6,nm0939562,writer,"novel ""Doll's Eyes""",\N
-1031622,tt0120710,7,nm0732430,writer,screenplay,\N
-1461289,tt0185102,5,nm0203961,writer,written by,\N
-1965578,tt0263757,6,nm0196932,writer,screenplay,\N
-1965579,tt0263757,7,nm0644806,writer,screenplay,\N
-1965580,tt0263757,8,nm0203183,writer,screenplay,\N
-1965581,tt0263757,9,nm0414324,writer,story,\N
-2002155,tt0269483,6,nm0613271,writer,written by,\N
-2415153,tt0330843,6,nm0711745,writer,story & screenplay,\N
-2415154,tt0330843,7,nm0347899,writer,dialogue,\N
-2613430,tt0363276,6,nm0835075,writer,story,\N
-3247178,tt0457510,6,nm1415801,writer,written by,\N
-3247179,tt0457510,7,nm0925234,writer,written by,\N
-3277549,tt0461936,6,nm0451311,writer,based on an original screenplay by,\N
-3277550,tt0461936,7,nm0015287,writer,based on an original screenplay by,\N
-6149517,tt0829176,6,nm0714199,writer,screenplay written by,\N
-6757333,tt0910905,6,nm0472100,writer,screenplay,\N
-6757334,tt0910905,7,nm1400959,writer,screenplay,\N
-6757335,tt0910905,8,nm0121715,writer,"novel ""In the Electric Mist with Confederate Dead""",\N
-6870591,tt0926063,6,nm1298090,writer,written by,\N
-8547441,tt10344410,5,nm3986344,writer,based on the novel by,\N
-11025296,tt11080108,6,nm5107819,writer,based on the short story by,\N
-13626631,tt1185420,6,nm2101751,writer,dialogue script,\N
-15994979,tt1265990,6,nm1867458,writer,written by,\N
-16178843,tt1272886,6,nm2411346,writer,novel,\N
-16526900,tt1285309,6,nm0227870,writer,story by,\N
-16611420,tt12882620,7,nm7945190,writer,based on the Audible original written by,\N
-19589096,tt1407084,6,nm0577332,writer,screenplay,\N
-19589097,tt1407084,7,nm3393347,writer,novel,\N
-19741639,tt1412386,6,nm0662530,writer,screenplay,\N
-19741640,tt1412386,7,nm0595738,writer,"novel ""These Foolish Things""",\N
-21928112,tt1483324,6,nm2773757,writer,written by,\N
-24818433,tt1592873,6,nm4351467,writer,screenplay,\N
-24818434,tt1592873,7,nm3610886,writer,"film ""LOL [Laughing Out Loud]庐""",\N
-26612567,tt1709143,6,nm3773893,writer,short story,\N
-26612568,tt1709143,7,nm0206092,writer,screenplay,\N
-27117737,tt1764625,10,nm0484475,writer,screenplay,\N
-27117747,tt1764625,6,nm0529787,writer,screenplay,\N
-27117748,tt1764625,7,nm1729366,writer,screenplay,\N
-27117749,tt1764625,8,nm0602508,writer,screenplay,\N
-27117750,tt1764625,9,nm0309027,writer,screenplay,\N
-27873603,tt1833116,6,nm3208946,writer,screenplay by,\N
-27873604,tt1833116,7,nm0423626,writer,screenplay by,\N
-27873606,tt1833116,8,nm1892927,writer,"based on the novel ""Three Seconds"" by",\N
-27873607,tt1833116,9,nm3553816,writer,"based on the novel ""Three Seconds"" by",\N
-27984008,tt1837562,6,nm2198611,writer,writer,\N
-27984009,tt1837562,7,nm0393495,writer,writer,\N
-28083757,tt1846442,6,nm0578850,writer,teleplay by,\N
-28083758,tt1846442,7,nm0115114,writer,teleplay by,\N
-28083759,tt1846442,8,nm4671079,writer,story by,\N
-29355920,tt1974419,6,nm6890017,writer,screenplay by,\N
-29355921,tt1974419,7,nm6031291,writer,screenplay by,\N
-30991988,tt2165735,6,nm0906413,writer,screenplay,\N
-30991989,tt2165735,7,nm0946883,writer,screenplay,\N
-30991990,tt2165735,8,nm4661537,writer,screenplay,\N
-30991991,tt2165735,9,nm5470609,writer,screenplay,\N
-31668029,tt2308260,6,nm0937074,writer,writer,\N
-31741775,tt2323964,6,nm4202937,writer,screenplay,\N
-31741776,tt2323964,7,nm3002771,writer,dialogue,\N
-31741777,tt2323964,8,nm4082640,writer,screenplay,\N
-31812881,tt2338424,6,nm1597917,writer,\N,\N
-32067287,tt2391224,5,nm0302339,writer,created by,\N
-32067288,tt2391224,6,nm1636278,writer,developed by,\N
-32067289,tt2391224,7,nm1467650,writer,developed by,\N
-32959078,tt2751074,5,nm0951390,writer,developer,\N
-32959079,tt2751074,6,nm0450509,writer,creator: Dutch television series,\N
-32959080,tt2751074,7,nm0452674,writer,creator: Dutch television series,\N
-33165945,tt2844798,6,nm0678467,writer,screenplay,\N
-33165946,tt2844798,7,nm5032902,writer,\N,\N
-33165947,tt2844798,8,nm0970537,writer,screenplay,\N
-34437308,tt3404140,6,nm4655557,writer,\N,\N
-34511575,tt3435532,5,nm1163823,writer,based on the original series 'Broadchurch' created by,\N
-35331201,tt3780500,6,nm0713911,writer,screenplay,\N
-35331202,tt3780500,7,nm0792670,writer,novel,\N
-35331203,tt3780500,8,nm9364546,writer,novel,\N
-35908294,tt4048668,6,nm0878494,writer,"novels ""The Adventures of Huckleberry Finn"" and ""The Adventures of Tom Sawyer""",\N
-38439500,tt5179598,6,nm0561359,writer,written by,\N
-38895559,tt5368542,5,nm2916300,writer,created by,\N
-39236155,tt5542802,6,nm6052646,writer,writers,\N
-39236156,tt5542802,7,nm3789785,writer,\N,\N
-39236157,tt5542802,8,nm5969139,writer,\N,\N
-39636765,tt5700176,6,nm1474875,writer,story development,\N
-39636766,tt5700176,7,nm0871857,writer,based in part on the novel by,\N
-40477137,tt6045466,6,nm0730422,writer,written for the screen by,\N
-41291380,tt6390668,6,nm2675515,writer,screenplay,\N
-41291381,tt6390668,7,nm1972905,writer,co-screenplay,\N
-41291382,tt6390668,8,nm10152548,writer,"based on the book by: ""A Vida Invis铆vel de Eur铆dice Gusm茫o""",\N
-41453256,tt6463320,6,nm4112021,writer,\N,\N
-41654710,tt6543652,6,nm0323196,writer,screenplay,\N
-41654711,tt6543652,7,nm2819873,writer,screenplay with the collaboration of,\N
-42847852,tt7059844,6,nm0881418,writer,screenplay,\N
-42847853,tt7059844,7,nm0795651,writer,dialogue,\N
-42847854,tt7059844,8,nm3606561,writer,collaborating writer,\N
-44538131,tt7721800,6,nm1758539,writer,original screenplay,\N
-44538132,tt7721800,7,nm4313283,writer,written by,\N
-45957176,tt8239946,8,nm3784276,writer,\N,\N
-45957177,tt8239946,9,nm10304029,writer,inspired by the works of,\N
-46318925,tt8368406,6,nm1167599,writer,written by,\N
-46807118,tt8543952,10,nm5003154,writer,screenplay,\N
-46807126,tt8543952,8,nm4697729,writer,manga,\N
-46807127,tt8543952,9,nm1639992,writer,series composition,\N
-47541334,tt8804580,6,nm5666772,writer,story by,\N
-47541335,tt8804580,7,nm6497808,writer,story by,\N
-48055611,tt8983164,6,nm3060331,writer,written by,\N
-48055612,tt8983164,7,nm2748159,writer,written by,\N
-48055613,tt8983164,8,nm5113220,writer,written by,\N
-48055614,tt8983164,9,nm12117035,writer,additional screenplay & dialogue,\N
-48589077,tt9176086,6,nm3451648,writer,dialogue by,\N
-50442688,tt9805612,5,nm1193115,writer,created by,\N
-50442689,tt9805612,6,nm7220895,writer,created by,\N
-50721680,tt9906260,10,nm5003154,writer,script,\N
-50721688,tt9906260,8,nm4697729,writer,head writer,\N
-50721689,tt9906260,9,nm1639992,writer,composition,\N
-623318,tt0073760,6,nm0568539,writer,written by,\N
-623319,tt0073760,7,nm0344065,writer,written by,\N
-635996,tt0075200,6,nm0846884,writer,screenplay,\N
-635997,tt0075200,7,nm0759041,writer,"novel ""The Hound of Florence""",\N
-644316,tt0076137,6,nm0022492,writer,written by,\N
-644317,tt0076137,7,nm0625316,writer,written by,\N
-644318,tt0076137,8,nm0119423,writer,characters created by,\N
-648634,tt0076618,10,nm0027011,writer,story,\N
-648642,tt0076618,8,nm0789100,writer,"suggested by ""The Rescuers"" and ""Miss Bianca"" by",\N
-648643,tt0076618,9,nm0166307,writer,story,\N
-662496,tt0078158,6,nm0549393,writer,written by,\N
-662497,tt0078158,7,nm0450720,writer,characters,\N
-675350,tt0079588,6,nm0432075,writer,written by,\N
-675351,tt0079588,7,nm0122698,writer,written by,\N
-686581,tt0080861,6,nm0846884,writer,written by,\N
-686582,tt0080861,7,nm0119423,writer,characters creator,\N
-700875,tt0082474,5,nm0665305,writer,written by,\N
-700876,tt0082474,6,nm0850695,writer,written by,\N
-700877,tt0082474,7,nm0432075,writer,written by,\N
-700878,tt0082474,8,nm0741439,writer,written by,\N
-709771,tt0083481,5,nm0548808,writer,written by,\N
-709772,tt0083481,6,nm0498278,writer,creator,\N
-709773,tt0083481,7,nm0456158,writer,creator,\N
-709774,tt0083481,8,nm0228492,writer,creator,\N
-709775,tt0083481,9,nm4631473,writer,creator: Firestar,\N
-809420,tt0094739,6,nm0682752,writer,written by,\N
-809421,tt0094739,7,nm0747822,writer,written by,\N
-824443,tt0096438,10,nm5927608,writer,"character: Huey, Dewey, and Louie Duck",\N
-824449,tt0096438,6,nm0937757,writer,"novel ""Who Censored Roger Rabbit?""",\N
-824450,tt0096438,7,nm0696949,writer,screenplay,\N
-824451,tt0096438,8,nm0780620,writer,screenplay,\N
-824452,tt0096438,9,nm5927607,writer,"character: Huey, Dewey, and Louie Duck",\N
-836072,tt0097757,10,nm3071117,writer,additional dialogue,\N
-836079,tt0097757,7,nm0026153,writer,based on the fairy tale by,\N
-836080,tt0097757,8,nm0039141,writer,additional dialogue,\N
-836081,tt0097757,9,nm0334057,writer,additional dialogue,\N
-894057,tt0104431,6,nm0000455,writer,characters,\N
-894097,tt0104437,10,nm0248054,writer,screenplay,\N
-894103,tt0104437,6,nm0002340,writer,characters,\N
-894104,tt0104437,7,nm0951206,writer,characters,\N
-894105,tt0104437,8,nm0619547,writer,characters,\N
-894106,tt0104437,9,nm0329340,writer,story,\N
-902424,tt0105417,6,nm0397411,writer,written by,\N
-907055,tt0105958,5,nm0414551,writer,created by,\N
-907056,tt0105958,6,nm0446190,writer,created by,\N
-912720,tt0106611,6,nm0796848,writer,story,\N
-912721,tt0106611,7,nm0006916,writer,story,\N
-912722,tt0106611,8,nm0842476,writer,screenplay,\N
-912723,tt0106611,9,nm0325271,writer,screenplay,\N
-917033,tt0107120,6,nm0456946,writer,story,\N
-917034,tt0107120,7,nm0308376,writer,story,\N
-917035,tt0107120,8,nm0193854,writer,screenplay,\N
-917117,tt0107131,6,nm0122484,writer,"novel ""The Incredible Journey""",\N
-917118,tt0107131,7,nm0003031,writer,screenplay,\N
-917119,tt0107131,8,nm0941314,writer,screenplay,\N
-937378,tt0109520,6,nm0109359,writer,characters,\N
-953492,tt0111419,7,nm0026153,writer,original classic fairytale,\N
-968422,tt0113198,10,nm0233233,writer,additional written material,\N
-968428,tt0113198,6,nm0536440,writer,story by,\N
-968429,tt0113198,7,nm0558533,writer,screenplay by,\N
-968430,tt0113198,8,nm0683724,writer,screenplay by,\N
-968431,tt0113198,9,nm0035664,writer,additional written material,\N
-973719,tt0113862,6,nm0242059,writer,written by,\N
-975295,tt0114048,6,nm0606611,writer,story,\N
-975296,tt0114048,7,nm0704164,writer,written by,\N
-975297,tt0114048,8,nm0467942,writer,written by,\N
-980743,tt0114709,10,nm0169505,writer,screenplay by,\N
-980749,tt0114709,6,nm0230032,writer,original story by,\N
-980750,tt0114709,7,nm0004056,writer,original story by,\N
-980751,tt0114709,8,nm0710020,writer,original story by,\N
-980752,tt0114709,9,nm0923736,writer,screenplay by,\N
-982475,tt0114924,6,nm0838015,writer,written by,\N
-982476,tt0114924,7,nm0495863,writer,written by,\N
-997144,tt0116669,6,nm0218621,writer,written by,\N
-997145,tt0116669,7,nm0618800,writer,written by,\N
-1013482,tt0118617,10,nm0925276,writer,screenplay by,\N
-1013489,tt0118617,7,nm0310319,writer,screenplay by,\N
-1013490,tt0118617,8,nm0333949,writer,screenplay by,\N
-1013491,tt0118617,9,nm0879318,writer,screenplay by,\N
-1023074,tt0119718,6,nm0698493,writer,written by,\N
-1023075,tt0119718,7,nm0792624,writer,written by,\N
-1028759,tt0120363,10,nm0398763,writer,screenplay by,\N
-1028767,tt0120363,8,nm0230032,writer,original story by,\N
-1028768,tt0120363,9,nm0004056,writer,original story by,\N
-1031040,tt0120631,6,nm0335666,writer,screenplay,\N
-1031041,tt0120631,7,nm0663002,writer,screenplay,\N
-1031042,tt0120631,8,nm0674518,writer,\N,\N
-1091045,tt0128890,5,nm0741697,writer,created by,\N
-1101187,tt0130623,10,nm0338396,writer,based on an earlier screenplay by,\N
-1101194,tt0130623,7,nm0258059,writer,story,\N
-1101195,tt0130623,8,nm0365666,writer,story,\N
-1101196,tt0130623,9,nm0414608,writer,story,\N
-1210446,tt0147800,6,nm0527581,writer,written by,\N
-1210447,tt0147800,7,nm0809006,writer,written by,\N
-1210448,tt0147800,8,nm0000636,writer,"play ""The Taming of the Shrew""",\N
-1638788,tt0211181,10,nm0925276,writer,screenplay,\N
-1638794,tt0211181,6,nm0807977,writer,"novel ""The One Hundred and One Dalmatians""",\N
-1638795,tt0211181,7,nm0118649,writer,story,\N
-1638796,tt0211181,8,nm0716391,writer,story,\N
-1638797,tt0211181,9,nm0879318,writer,screenplay,\N
-1751951,tt0230011,10,nm0951392,writer,story by,\N
-1751958,tt0230011,7,nm0614742,writer,screenplay by,\N
-1751959,tt0230011,8,nm0923736,writer,story by,\N
-1751960,tt0230011,9,nm0007233,writer,story by,\N
-1861232,tt0247638,6,nm0127690,writer,novel,\N
-1861233,tt0247638,7,nm0920859,writer,screenplay,\N
-1873953,tt0249677,10,nm0462164,writer,additional screenplay material by,\N
-1873960,tt0249677,7,nm0609600,writer,screenplay by,\N
-1873961,tt0249677,8,nm0744793,writer,screenplay by,\N
-1873962,tt0249677,9,nm0737241,writer,additional screenplay material by,\N
-1977708,tt0265632,6,nm0314480,writer,television series Recess,\N
-1977709,tt0265632,7,nm0030651,writer,television series Recess,\N
-1977710,tt0265632,8,nm0338537,writer,story,\N
-2012740,tt0271271,6,nm0755551,writer,"book ""Zenon, Girl of the 21st Century""",\N
-2012741,tt0271271,7,nm0093098,writer,"book ""Zenon, Girl of the 21st Century""",\N
-2012742,tt0271271,8,nm0471217,writer,teleplay,\N
-2030197,tt0273799,6,nm1075184,writer,story,\N
-2030198,tt0273799,7,nm0077080,writer,story,\N
-2030199,tt0273799,8,nm0085933,writer,story,\N
-2030200,tt0273799,9,nm0007079,writer,story,\N
-2030456,tt0273842,6,nm0460458,writer,written by,\N
-2030457,tt0273842,7,nm0805957,writer,written by,\N
-2092021,tt0283084,6,nm0044810,writer,novel,\N
-2092022,tt0283084,7,nm0509340,writer,screenplay,\N
-2092023,tt0283084,8,nm0366337,writer,screenplay,\N
-2169961,tt0294425,6,nm0661275,writer,written by,\N
-2169962,tt0294425,7,nm1047701,writer,written by,\N
-2182013,tt0296251,6,nm1070424,writer,novel,\N
-2182014,tt0296251,7,nm0471217,writer,teleplay,\N
-2237387,tt0304669,10,nm0833828,writer,screenplay,\N
-2237393,tt0304669,6,nm0722610,writer,screenplay,\N
-2237394,tt0304669,7,nm0666791,writer,screenplay,\N
-2237395,tt0304669,8,nm0202425,writer,screenplay,\N
-2237396,tt0304669,9,nm0214036,writer,screenplay,\N
-2600491,tt0361089,6,nm1498344,writer,story,\N
-2600492,tt0361089,7,nm0441750,writer,screenplay,\N
-2600493,tt0361089,8,nm1276664,writer,screenplay,\N
-2600494,tt0361089,9,nm0076791,writer,\N,\N
-2616905,tt0363771,6,nm0668754,writer,screenplay,\N
-2616906,tt0363771,7,nm1321655,writer,screenplay,\N
-2616907,tt0363771,8,nm1321656,writer,screenplay,\N
-2616908,tt0363771,9,nm0507000,writer,book,\N
-2649200,tt0368891,10,nm1469874,writer,story,\N
-2649206,tt0368891,6,nm0467942,writer,screenplay,\N
-2649207,tt0368891,7,nm0926727,writer,screenplay,\N
-2649208,tt0368891,8,nm0926729,writer,screenplay,\N
-2649209,tt0368891,9,nm0043233,writer,story,\N
-2706742,tt0377770,4,nm0198557,writer,story,\N
-2706743,tt0377770,5,nm0376245,writer,story,\N
-2742030,tt0382932,10,nm0677037,writer,additional story material,\N
-2742037,tt0382932,7,nm0135296,writer,original story by,\N
-2742038,tt0382932,8,nm1486235,writer,additional story material,\N
-2742039,tt0382932,9,nm1271884,writer,additional story material,\N
-2861970,tt0401398,10,nm0227540,writer,characters,\N
-2861977,tt0401398,7,nm1902232,writer,story by,\N
-2861978,tt0401398,8,nm1713427,writer,story by,\N
-2861979,tt0401398,9,nm0737241,writer,story by,\N
-2922473,tt0410696,6,nm0257177,writer,story,\N
-2922474,tt0410696,7,nm0257171,writer,story,\N
-2922475,tt0410696,8,nm0073504,writer,teleplay,\N
-3102196,tt0436339,6,nm0926727,writer,screenplay,\N
-3102197,tt0436339,7,nm0926729,writer,screenplay,\N
-3102198,tt0436339,8,nm0416408,writer,story,\N
-3213378,tt0452598,6,nm0363958,writer,written by,\N
-3213379,tt0452598,7,nm0864471,writer,characters,\N
-3213380,tt0452598,8,nm0318326,writer,"novel ""Cheaper by the Dozen""",\N
-3213381,tt0452598,9,nm0136950,writer,"novel ""Cheaper by the Dozen""",\N
-3250615,tt0457993,7,nm0349966,writer,screenplay by,\N
-3250616,tt0457993,8,nm0432612,writer,screenplay by,\N
-3250617,tt0457993,9,nm0524710,writer,\N,\N
-3252613,tt0458290,5,nm0000184,writer,created by,\N
-3438954,tt0486761,7,nm0934897,writer,written by,\N
-3438955,tt0486761,8,nm0213450,writer,characters,\N
-6323899,tt0852863,5,nm0550578,writer,creator,\N
-6454864,tt0870154,10,nm0326247,writer,screen story by,\N
-6454870,tt0870154,6,nm0338169,writer,screenplay by,\N
-6454871,tt0870154,7,nm0275629,writer,screenplay by,\N
-6454872,tt0870154,8,nm0720135,writer,screenplay by,\N
-6454873,tt0870154,9,nm0636358,writer,screen story by,\N
-7005544,tt0945571,3,nm0682066,writer,story,\N
-7005545,tt0945571,4,nm0102691,writer,story,\N
-7054428,tt0952640,6,nm0900140,writer,screenplay,\N
-7054429,tt0952640,7,nm0574509,writer,screenplay,\N
-7054430,tt0952640,8,nm0899531,writer,screenplay,\N
-7054431,tt0952640,9,nm0046564,writer,characters Alvin and the Chipmunks,\N
-7123609,tt0962726,6,nm0058302,writer,written by,\N
-7358642,tt0997047,6,nm0595088,writer,written by,\N
-7358643,tt0997047,7,nm0933144,writer,written by,\N
-7358644,tt0997047,8,nm0666791,writer,written by,\N
-7358645,tt0997047,9,nm0202425,writer,written by,\N
-7837757,tt1013542,6,nm0073504,writer,story by,\N
-7837758,tt1013542,7,nm0304091,writer,teleplay by,\N
-7837759,tt1013542,8,nm1339000,writer,series of books,\N
-7837760,tt1013542,9,nm0806473,writer,teleplay by,\N
-9263698,tt1053810,6,nm0291442,writer,screenplay,\N
-9263699,tt1053810,7,nm2696996,writer,"book ""The Big Year: A Tale of Man, Nature, and Fowl Obsession""",\N
-10109550,tt1078912,6,nm0304830,writer,written by,\N
-10109551,tt1078912,7,nm0502073,writer,written by,\N
-10487259,tt1090750,6,nm1115263,writer,written by,\N
-11712610,tt1127884,6,nm0689954,writer,character based on the series created by,\N
-11712611,tt1127884,7,nm0180902,writer,character based on the series created by,\N
-11712617,tt1127884,8,nm0639434,writer,character based on the series created by,\N
-12796551,tt1159961,5,nm1344116,writer,screenplay,\N
-13070134,tt11681250,6,nm2876788,writer,screenplay by,\N
-13070135,tt11681250,7,nm2602433,writer,screenplay by,\N
-14199177,tt1204342,6,nm0831557,writer,written by,\N
-14199178,tt1204342,7,nm0001345,writer,based on,\N
-16765125,tt1294226,6,nm0817023,writer,screenplay,\N
-16765126,tt1294226,7,nm3491486,writer,screenplay,\N
-17860227,tt1334106,10,nm0918083,writer,based on the marvel comics by,\N
-17860253,tt1334106,6,nm0973233,writer,\N,\N
-17860254,tt1334106,7,nm1129269,writer,writing,\N
-17860255,tt1334106,8,nm0859471,writer,based on the marvel comics by,\N
-17860256,tt1334106,9,nm1079460,writer,based on the marvel comics by,\N
-21209848,tt14602326,10,nm0000370,writer,based on his Haunted Mansion,\N
-21209854,tt14602326,6,nm0057321,writer,teleplay by,\N
-21209855,tt14602326,7,nm8566357,writer,teleplay by,\N
-21209856,tt14602326,8,nm0507355,writer,story by,\N
-21209857,tt14602326,9,nm0001345,writer,based on his Muppets,\N
-22002023,tt1485796,6,nm0081081,writer,screenplay by,\N
-22002024,tt1485796,7,nm0174374,writer,screenplay by,\N
-24325620,tt1571313,5,nm0189137,writer,creator,\N
-24325629,tt1571313,6,nm0389668,writer,creator,\N
-24954076,tt1604171,6,nm2251854,writer,written by,\N
-27323131,tt1790809,10,nm0064181,writer,based on characters created by,\N
-27323138,tt1790809,7,nm0622288,writer,screenplay by,\N
-27323139,tt1790809,8,nm0744429,writer,story by,\N
-27323140,tt1790809,9,nm0254645,writer,based on characters created by,\N
-28052944,tt1843230,5,nm0395271,writer,created by,\N
-28052945,tt1843230,6,nm0457736,writer,created by,\N
-28083757,tt1846442,6,nm0578850,writer,teleplay by,\N
-28083758,tt1846442,7,nm0115114,writer,teleplay by,\N
-28083759,tt1846442,8,nm4671079,writer,story by,\N
-28285529,tt1865769,5,nm0250518,writer,created by,\N
-28285530,tt1865769,6,nm0048832,writer,created by,\N
-28285531,tt1865769,7,nm0891291,writer,created by,\N
-30865568,tt2140373,6,nm0545150,writer,written by,\N
-30865569,tt2140373,7,nm0810055,writer,written by,\N
-31411368,tt2252938,5,nm0566833,writer,creator,\N
-33463452,tt2980706,6,nm0397377,writer,story and screenplay by,\N
-33693391,tt3089630,6,nm1379619,writer,based on the novel by,\N
-33693392,tt3089630,7,nm0566100,writer,screenplay by,\N
-33693393,tt3089630,8,nm0574217,writer,screenplay by,\N
-34010034,tt3228774,10,nm1587813,writer,story by,\N
-34010040,tt3228774,6,nm1401416,writer,screenplay by,\N
-34010041,tt3228774,7,nm1110111,writer,screenplay by,\N
-34010042,tt3228774,8,nm0112459,writer,story by,\N
-34010043,tt3228774,9,nm0545150,writer,story by,\N
-37565229,tt4777008,10,nm0052520,writer,"based on: characters from Disney's ""Sleeping Beauty"", story",\N
-37565235,tt4777008,6,nm0941314,writer,written by,\N
-37565236,tt4777008,7,nm1406764,writer,written by,\N
-37565237,tt4777008,8,nm2873116,writer,written by,\N
-37565238,tt4777008,9,nm0674518,writer,"based on: characters from ""La Belle Au Bois Dormant"" written by",\N
-37707233,tt4846340,6,nm2284377,writer,screenplay by,\N
-37707234,tt4846340,7,nm7446421,writer,based on the book by,\N
-38261410,tt5104604,6,nm0178910,writer,story by,\N
-38261411,tt5104604,7,nm0005403,writer,story by,\N
-38261412,tt5104604,8,nm1440081,writer,story by,\N
-43080434,tt7146812,6,nm1291392,writer,original story by,\N
-43080435,tt7146812,7,nm3268751,writer,original story by,\N
-46226380,tt8336340,5,nm2608366,writer,developed by,\N
-46226381,tt8336340,6,nm1396048,writer,created by,\N
-46226382,tt8336340,7,nm1848009,writer,developed by,\N
-48048964,tt8980868,6,nm2689816,writer,story,\N
-48048965,tt8980868,7,nm2394516,writer,story,\N
-847070,tt0098999,6,nm2832163,writer,Subtitles,\N
-847071,tt0098999,7,nm0434318,writer,dialogue,\N
-847072,tt0098999,8,nm0765454,writer,screenplay,\N
-873732,tt0102065,7,nm0399737,writer,characters,\N
-873733,tt0102065,8,nm0192090,writer,story,\N
-873734,tt0102065,9,nm0630012,writer,screenplay,\N
-879557,tt0102744,6,nm0384398,writer,written by,\N
-918590,tt0107311,6,nm0445474,writer,screenplay,\N
-918591,tt0107311,7,nm0659238,writer,dialogue,\N
-925745,tt0108162,6,nm0505615,writer,novel,\N
-925746,tt0108162,7,nm0000390,writer,screenplay,\N
-999846,tt0116996,10,nm0766921,writer,trading card series,\N
-999852,tt0116996,6,nm0114083,writer,trading card series,\N
-999853,tt0116996,7,nm0312481,writer,trading card series,\N
-999854,tt0116996,8,nm0940071,writer,trading card series,\N
-999855,tt0116996,9,nm0694035,writer,trading card series,\N
-1006319,tt0117765,6,nm0382437,writer,book,\N
-1013106,tt0118571,6,nm0549256,writer,written by,\N
-1122440,tt0134084,6,nm0932078,writer,characters,\N
-1122441,tt0134084,7,nm0472567,writer,written by,\N
-1437163,tt0181739,7,nm0405190,writer,written by,\N
-1461851,tt0185183,6,nm0541720,writer,screenplay,\N
-1461852,tt0185183,7,nm0788526,writer,screenplay,\N
-1461853,tt0185183,8,nm0399196,writer,novel,\N
-1498397,tt0190332,6,nm0910924,writer,screenplay by,\N
-1498398,tt0190332,7,nm0770005,writer,screenplay by,\N
-1498399,tt0190332,8,nm0874631,writer,screenplay by,\N
-1498400,tt0190332,9,nm0238893,writer,based on the book by,\N
-2175054,tt0295178,6,nm0567112,writer,written by,\N
-2515244,tt0347436,5,nm0101991,writer,screenplay,\N
-2515245,tt0347436,6,nm1622375,writer,adaptation,\N
-2515246,tt0347436,7,nm0866058,writer,novel,\N
-2652749,tt0369436,6,nm0020820,writer,screenplay,\N
-2652750,tt0369436,7,nm0933128,writer,screenplay,\N
-2652751,tt0369436,8,nm0524190,writer,screenplay,\N
-2652752,tt0369436,9,nm0601859,writer,screenplay,\N
-2675403,tt0373074,5,nm0874683,writer,written by,\N
-2675404,tt0373074,6,nm0403230,writer,written by,\N
-2675405,tt0373074,7,nm0151013,writer,written by,\N
-2707035,tt0377818,6,nm0907296,writer,based on characters created by,\N
-2707036,tt0377818,7,nm1016088,writer,screenplay by,\N
-2707037,tt0377818,8,nm1627554,writer,story by,\N
-3067509,tt0431308,6,nm0737216,writer,screenplay,\N
-3067510,tt0431308,7,nm1754499,writer,novel,\N
-3237651,tt0456149,6,nm1146102,writer,\N,\N
-3246650,tt0457433,6,nm0464548,writer,screenplay,\N
-3246651,tt0457433,7,nm0092578,writer,story,\N
-3281364,tt0462482,6,nm0455590,writer,written by,\N
-3385102,tt0478087,6,nm13204541,writer,screenplay,\N
-3385103,tt0478087,7,nm1615610,writer,screenplay,\N
-3385104,tt0478087,8,nm0583826,writer,"book ""Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions""",\N
-5801909,tt0780567,6,nm0004412,writer,written by,\N
-5801910,tt0780567,7,nm0558533,writer,written by,\N
-6023322,tt0811066,6,nm1330994,writer,\N,\N
-6023323,tt0811066,7,nm2632735,writer,Dialogue,\N
-6783028,tt0914376,5,nm1895871,writer,developed by,\N
-6783029,tt0914376,6,nm1943168,writer,developed by,\N
-9577325,tt10627720,6,nm10847687,writer,story,\N
-14648693,tt1219342,6,nm0650089,writer,screenplay,\N
-14648694,tt1219342,7,nm2145339,writer,screenplay,\N
-14648695,tt1219342,8,nm0489691,writer,"novels ""Guardians of Ga'Hoole""",\N
-15295198,tt12411074,5,nm1782844,writer,creator,\N
-17440672,tt1315981,6,nm0410877,writer,novel,\N
-17440673,tt1315981,7,nm3179694,writer,written for the screen by,\N
-17809554,tt13318052,6,nm4395704,writer,\N,\N
-20136681,tt14252964,5,nm2182068,writer,created by,\N
-20136682,tt14252964,6,nm2099207,writer,created by,\N
-22536046,tt1504320,6,nm0782436,writer,screenplay,\N
-23214003,tt1528406,5,nm2539064,writer,creator,\N
-23214006,tt1528406,6,nm0812228,writer,developed by,\N
-23924303,tt1552211,6,nm2244980,writer,written by,\N
-23924304,tt1552211,7,nm3559500,writer,based on the Radical Publishing graphic novel created by,\N
-23924305,tt1552211,8,nm11515938,writer,based on the Radical Publishing graphic novel created by,\N
-25093013,tt1613750,7,nm0803931,writer,written by,\N
-25846760,tt1648186,6,nm1319618,writer,written by,\N
-25846761,tt1648186,7,nm1276348,writer,written by,\N
-25846762,tt1648186,8,nm0039328,writer,written by,\N
-29645889,tt1999167,6,nm4874963,writer,screenplay,\N
-29645890,tt1999167,7,nm1618263,writer,manga,\N
-30865568,tt2140373,6,nm0545150,writer,written by,\N
-30865569,tt2140373,7,nm0810055,writer,written by,\N
-31028167,tt2172584,6,nm0905818,writer,screenplay,\N
-31102245,tt2186933,6,nm4856427,writer,\N,\N
-32299506,tt2467046,6,nm0482510,writer,screenplay,\N
-32299507,tt2467046,7,nm1146036,writer,screenplay,\N
-32299508,tt2467046,8,nm0481542,writer,novel,\N
-32299509,tt2467046,9,nm0420874,writer,novel,\N
-32316577,tt2473602,6,nm0125336,writer,screenplay,\N
-32316578,tt2473602,7,nm3890871,writer,screenplay,\N
-32316579,tt2473602,8,nm0047076,writer,story,\N
-32889728,tt2720826,6,nm0729151,writer,written by,\N
-32889729,tt2720826,7,nm0929349,writer,written by,\N
-32889730,tt2720826,8,nm5099091,writer,"based on the article ""Bruce Lee's Toughest Fight"" by",\N
-33882160,tt3169770,6,nm1157609,writer,\N,\N
-34307255,tt3352390,6,nm0050722,writer,written by,\N
-34307256,tt3352390,7,nm2279441,writer,written by,\N
-34423921,tt3398976,5,nm7362281,writer,"development support: Afternoon Magazine, Kodansha Ltd.",\N
-34423922,tt3398976,6,nm7362280,writer,"development support: Afternoon Magazine, Kodansha Ltd.",\N
-34740997,tt3532628,6,nm0471392,writer,created by,\N
-34740998,tt3532628,7,nm1912955,writer,written by,\N
-34740999,tt3532628,8,nm3160583,writer,story editor,\N
-34741000,tt3532628,9,nm2749064,writer,story editor,\N
-34763163,tt3544734,10,nm1289517,writer,\N,\N
-34763169,tt3544734,6,nm7457660,writer,"based on the novel ""Boys Are Dogs"" by",\N
-34763170,tt3544734,7,nm2785000,writer,teleplay,\N
-34763171,tt3544734,8,nm1103326,writer,teleplay,\N
-34763172,tt3544734,9,nm5266906,writer,television story by,\N
-35499218,tt3848888,6,nm3258929,writer,co-writer,\N
-35499219,tt3848888,7,nm0223606,writer,dialogue,\N
-35866948,tt4030600,6,nm0672103,writer,screenplay by,\N
-35866949,tt4030600,7,nm6765196,writer,"based on ""The Bridge to Body Island"" by",\N
-37569811,tt4779326,5,nm4928977,writer,written by,\N
-37864873,tt4919484,6,nm0951592,writer,written by,\N
-38316876,tt5126922,6,nm4570486,writer,"based on the book ""The Pirates of Somalia: Inside Their Hidden World"" by",\N
-38460415,tt5189894,6,nm7754516,writer,novel,\N
-38479630,tt5197860,5,nm2516963,writer,creator,\N
-39478265,tt5639446,6,nm2154927,writer,\N,\N
-39478266,tt5639446,7,nm3226031,writer,\N,\N
-40234687,tt5946128,6,nm13597298,writer,\N,\N
-40234688,tt5946128,7,nm3613395,writer,\N,\N
-40881836,tt6214928,6,nm0000175,writer,novella,\N
-40995195,tt6259380,6,nm2425790,writer,screenplay by,\N
-41317246,tt6402468,6,nm0392668,writer,scenario,\N
-41599579,tt6522546,6,nm2701239,writer,hindi dialogue,\N
-41784788,tt6595896,6,nm0795575,writer,earlier screenplay,\N
-41784789,tt6595896,7,nm0846969,writer,concept,\N
-41784790,tt6595896,8,nm1316290,writer,screenplay,\N
-42455705,tt6892462,6,nm4080102,writer,adaptation,\N
-42455706,tt6892462,7,nm4380548,writer,adaptation,\N
-42534180,tt6927152,6,nm1369364,writer,\N,\N
-42534181,tt6927152,7,nm2008414,writer,\N,\N
-42534182,tt6927152,8,nm5434379,writer,\N,\N
-43508211,tt7315484,6,nm1139317,writer,screenplay by,\N
-43508212,tt7315484,7,nm0886749,writer,screenplay by,\N
-43508213,tt7315484,8,nm2423304,writer,based on the novel by,\N
-44222040,tt7605074,10,nm11224439,writer,\N,\N
-44222046,tt7605074,6,nm4069148,writer,\N,\N
-44222047,tt7605074,7,nm9400701,writer,\N,\N
-44222048,tt7605074,8,nm9400700,writer,\N,\N
-44222049,tt7605074,9,nm9400702,writer,\N,\N
-45328203,tt8009744,6,nm1440919,writer,written by,\N
-45601218,tt8110640,6,nm2309496,writer,written by,\N
-45601219,tt8110640,7,nm2205460,writer,written by,\N
-47222126,tt8688814,5,nm1132209,writer,created by,\N
-47222127,tt8688814,6,nm2541892,writer,created by,\N
-47369662,tt8741648,5,nm0204030,writer,created by,\N
-48822816,tt9251798,5,nm6306573,writer,storyline,\N
-48822817,tt9251798,6,nm0696769,writer,creator,\N
-49335384,tt9425132,5,nm0075666,writer,created by,\N
-50309374,tt9760504,6,nm1757129,writer,screen story,\N
-50486014,tt9820352,6,nm1906725,writer,Writer,\N
-612863,tt0072562,5,nm0584427,writer,writer,\N
-703601,tt0082782,6,nm0589357,writer,story concept,\N
-703602,tt0082782,7,nm0063583,writer,written by,\N
-802873,tt0094006,6,nm0000455,writer,written by,\N
-825411,tt0096542,5,nm0075276,writer,created by,\N
-825412,tt0096542,6,nm0093748,writer,created by,\N
-825413,tt0096542,7,nm0777209,writer,created by,\N
-846543,tt0098936,5,nm0004111,writer,showrunner,\N
-846544,tt0098936,6,nm0000186,writer,showrunner,\N
-846654,tt0098948,5,nm0029628,writer,created by,\N
-846655,tt0098948,6,nm0143517,writer,created by,\N
-846656,tt0098948,7,nm0497115,writer,created by,\N
-886089,tt0103491,5,nm0823015,writer,created by,\N
-931856,tt0108872,5,nm0392848,writer,created by,\N
-943279,tt0110216,6,nm0905458,writer,written by,\N
-943280,tt0110216,7,nm0175620,writer,written by,\N
-1016974,tt0119008,6,nm0685587,writer,"book ""Donnie Brasco: My Undercover Life in the Mafia""",\N
-1016975,tt0119008,7,nm0940361,writer,"book ""Donnie Brasco: My Undercover Life in the Mafia""",\N
-1016976,tt0119008,8,nm0001921,writer,screenplay,\N
-1087596,tt0128445,6,nm0005562,writer,written by,\N
-1198249,tt0145487,6,nm0498278,writer,Marvel comic book,\N
-1198250,tt0145487,7,nm0228492,writer,Marvel comic book,\N
-1198251,tt0145487,8,nm0462895,writer,screenplay,\N
-1808526,tt0239195,5,nm0663789,writer,creator,\N
-2114721,tt0286486,5,nm0752841,writer,created by,\N
-2458610,tt0338096,6,nm1568308,writer,story,\N
-2458611,tt0338096,7,nm0755969,writer,story,\N
-2458612,tt0338096,8,nm0945026,writer,screenplay,\N
-2458613,tt0338096,9,nm0002982,writer,screenplay,\N
-2500443,tt0345061,6,nm0101639,writer,writer,\N
-2646574,tt0368530,5,nm0777043,writer,created by,\N
-2924420,tt0410975,5,nm0156100,writer,created by,\N
-3099880,tt0435961,5,nm0631488,writer,creator,\N
-3268820,tt0460627,5,nm0361274,writer,created by,\N
-3281473,tt0462499,5,nm0599393,writer,written by,\N
-3281474,tt0462499,6,nm0606251,writer,character,\N
-3463688,tt0490668,6,nm0738899,writer,\N,\N
-3463689,tt0490668,7,nm9261564,writer,creator,\N
-5651589,tt0758745,5,nm0000916,writer,developed for television by,\N
-6002304,tt0808151,6,nm0462895,writer,screenplay,\N
-6002305,tt0808151,7,nm0326040,writer,screenplay,\N
-6002306,tt0808151,8,nm1467010,writer,novel,\N
-7206519,tt0974613,6,nm0939606,writer,screenplay,\N
-7206520,tt0974613,7,nm0772384,writer,short story,\N
-13438462,tt11794642,5,nm0005082,writer,created by,\N
-13808185,tt1191056,5,nm0242472,writer,conceived by,\N
-14455781,tt1213012,7,nm1558946,writer,based on a story by,\N
-14455792,tt1213012,8,nm0219270,writer,screenplay by,\N
-14988779,tt12306692,5,nm1004299,writer,created by,\N
-14988780,tt12306692,6,nm0614682,writer,created by,\N
-19719319,tt1411598,5,nm0242472,writer,conceived by,\N
-20615882,tt1441109,5,nm0081334,writer,created by,\N
-20615885,tt1441109,6,nm0492639,writer,created by,\N
-22127715,tt1489887,6,nm1054604,writer,written by,\N
-22127716,tt1489887,7,nm2873539,writer,written by,\N
-22127718,tt1489887,8,nm2573005,writer,written by,\N
-22127719,tt1489887,9,nm4199289,writer,written by,\N
-23921880,tt1552112,5,nm0132319,writer,creator,\N
-24633754,tt1582457,5,nm0001403,writer,creator,\N
-24657829,tt1583421,6,nm1014201,writer,written by,\N
-24657830,tt1583421,7,nm1116660,writer,written by,\N
-26373499,tt1694020,6,nm1557594,writer,written by,\N
-26373500,tt1694020,7,nm9209737,writer,collaborating writer,\N
-27178801,tt1772379,5,nm2113666,writer,creator,\N
-27220835,tt1778304,7,nm0484907,writer,written by,\N
-27220836,tt1778304,8,nm2305431,writer,"film ""Paranormal Activity""",\N
-27583095,tt1821681,5,nm0471352,writer,created by,\N
-28150524,tt1853739,6,nm1440023,writer,written by,\N
-29144695,tt1951264,6,nm0064479,writer,screenplay,\N
-29144696,tt1951264,7,nm1578335,writer,screenplay,\N
-29144705,tt1951264,8,nm1056741,writer,"novel ""Catching Fire""",\N
-30600304,tt2094064,6,nm0000636,writer,based on the play by,\N
-30643075,tt2100546,10,nm0841532,writer,based on the characters created by,\N
-30643081,tt2100546,6,nm3508936,writer,based on the characters created by,\N
-30643082,tt2100546,7,nm0310087,writer,based on the characters created by,\N
-30643083,tt2100546,8,nm0363958,writer,\N,\N
-30643084,tt2100546,9,nm0718514,writer,\N,\N
-30758566,tt2118624,6,nm4784201,writer,written by,\N
-30758567,tt2118624,7,nm0588679,writer,written by,\N
-31288420,tt2226342,5,nm0156100,writer,created for American television by,\N
-31333294,tt2235759,5,nm1110111,writer,created by,\N
-32596906,tt2586120,6,nm0081179,writer,\N,\N
-32596907,tt2586120,7,nm4380548,writer,\N,\N
-32758418,tt2654620,5,nm0868219,writer,created by,\N
-32758419,tt2654620,6,nm2353561,writer,created by,\N
-32772359,tt2660806,5,nm0743048,writer,created by,\N
-32772360,tt2660806,6,nm0331212,writer,created by,\N
-32772361,tt2660806,7,nm0521143,writer,created by,\N
-32852850,tt2705602,5,nm1882744,writer,created by,\N
-32852851,tt2705602,6,nm0999606,writer,created by,\N
-32852852,tt2705602,7,nm0614414,writer,created by,\N
-33077200,tt2802850,5,nm1279638,writer,created for television by,\N
-33203380,tt2861424,5,nm1363595,writer,created by,\N
-34217165,tt3316796,10,nm1383735,writer,written by,\N
-34217171,tt3316796,6,nm0001104,writer,creator,\N
-34217172,tt3316796,7,nm3079117,writer,based on the series of graphic novels by,\N
-34217173,tt3316796,8,nm3877885,writer,based on the series of graphic novels by,\N
-34217174,tt3316796,9,nm1891501,writer,based on the series of graphic novels by,\N
-35522948,tt3859272,6,nm3273770,writer,\N,\N
-35522949,tt3859272,7,nm6016499,writer,based on an original screenplay by,\N
-35904760,tt4047038,5,nm0484840,writer,created for television by,\N
-36230467,tt4189492,5,nm2919995,writer,based on the book by,\N
-36493163,tt4307902,5,nm6204450,writer,created by,\N
-36493164,tt4307902,6,nm6144403,writer,created by,\N
-36493165,tt4307902,7,nm0831557,writer,created by,\N
-36754499,tt4419214,5,nm1148550,writer,created for television by,\N
-37028932,tt4536768,6,nm2380520,writer,\N,\N
-37831240,tt4903242,5,nm1200650,writer,created by,\N
-38149829,tt5056196,5,nm1729294,writer,developed by,\N
-38149830,tt5056196,6,nm2391575,writer,developed by,\N
-38232673,tt5093026,6,nm3360706,writer,screenplay by,\N
-38232674,tt5093026,7,nm0153508,writer,"based upon the books ""Papillon"" and ""Banco"" by",\N
-38232675,tt5093026,8,nm0874308,writer,"based upon the 1973 screenplay ""Papillon"" by",\N
-38232676,tt5093026,9,nm0783913,writer,"based upon the 1973 screenplay ""Papillon"" by",\N
-40675378,tt6128254,5,nm8492187,writer,created by,\N
-41100471,tt6304046,6,nm1258777,writer,screenplay,\N
-41422445,tt6450804,10,nm0251050,writer,story by,\N
-41422451,tt6450804,6,nm0275286,writer,screenplay by,\N
-41422452,tt6450804,7,nm1221634,writer,screenplay by,\N
-41422453,tt6450804,8,nm0712753,writer,screenplay by,\N
-41422454,tt6450804,9,nm0000116,writer,story by,\N
-41470868,tt6470478,5,nm0794914,writer,developed by,\N
-41666695,tt6548228,5,nm2212280,writer,created by,\N
-41666696,tt6548228,6,nm1933058,writer,created by,\N
-42190441,tt6768578,10,nm4461870,writer,collaborating writer,\N
-42190447,tt6768578,6,nm0158323,writer,story,\N
-42190448,tt6768578,7,nm0309979,writer,story,\N
-42190449,tt6768578,8,nm3583024,writer,collaborating writer,\N
-42190450,tt6768578,9,nm4462605,writer,collaborating writer,\N
-42742148,tt7018644,5,nm1244069,writer,created by,\N
-42742149,tt7018644,6,nm0932831,writer,created by,\N
-42899041,tt7078658,6,nm1104036,writer,written by,\N
-42899042,tt7078658,7,nm2366133,writer,additional material by,\N
-42899043,tt7078658,8,nm0733988,writer,additional material by,\N
-43316935,tt7242816,5,nm2207641,writer,created by,\N
-43316936,tt7242816,6,nm0569838,writer,created by,\N
-44182502,tt7589524,7,nm0554167,writer,poem,\N
-44250425,tt7616148,6,nm6152442,writer,screenplay by,\N
-45542383,tt8089526,10,nm5212440,writer,story editor,\N
-45542389,tt8089526,6,nm0329634,writer,created by,\N
-45542390,tt8089526,7,nm1321658,writer,created by,\N
-45542391,tt8089526,8,nm1472469,writer,written by,\N
-45542392,tt8089526,9,nm3194501,writer,executive story editor,\N
-47148513,tt8663516,6,nm4167257,writer,screenplay by,\N
-47148514,tt8663516,7,nm0238841,writer,"based on ""Child's Play"" screenplay by",\N
-47148515,tt8663516,8,nm0480843,writer,"based on ""Child's Play"" screenplay by",\N
-47148516,tt8663516,9,nm0276169,writer,"based on ""Child's Play"" screenplay by",\N
-48736218,tt9223870,5,nm3468121,writer,based upon comix by,\N
-48736219,tt9223870,6,nm1187871,writer,developed by,\N
-49313599,tt9418572,5,nm2057975,writer,created by,\N
+nconst,tconst
+nm0868681,tt0068284
+nm0462849,tt0068284
+nm0140643,tt0068361
+nm0307024,tt0068575
+nm0102840,tt0068805
+nm0791217,tt0072431
+nm0733015,tt0078087
+nm0000626,tt0078087
+nm0918518,tt0080436
+nm0628058,tt0084732
+nm0174304,tt0092632
+nm0004111,tt0092632
+nm0028892,tt0093036
+nm0089634,tt0096378
+nm0304665,tt0096378
+nm0541632,tt0096378
+nm0913027,tt0100029
+nm0179896,tt0100046
+nm0745330,tt0105698
+nm0500609,tt0105698
+nm0002041,tt0105698
+nm0500329,tt0116059
+nm0438230,tt0116059
+nm0656716,tt0116671
+nm0939562,tt0120710
+nm0732430,tt0120710
+nm0203961,tt0185102
+nm0196932,tt0263757
+nm0644806,tt0263757
+nm0203183,tt0263757
+nm0414324,tt0263757
+nm0613271,tt0269483
+nm0711745,tt0330843
+nm0347899,tt0330843
+nm0835075,tt0363276
+nm1415801,tt0457510
+nm0925234,tt0457510
+nm0451311,tt0461936
+nm0015287,tt0461936
+nm0714199,tt0829176
+nm0472100,tt0910905
+nm1400959,tt0910905
+nm0121715,tt0910905
+nm1298090,tt0926063
+nm3986344,tt10344410
+nm5107819,tt11080108
+nm2101751,tt1185420
+nm1867458,tt1265990
+nm2411346,tt1272886
+nm0227870,tt1285309
+nm7945190,tt12882620
+nm0577332,tt1407084
+nm3393347,tt1407084
+nm0662530,tt1412386
+nm0595738,tt1412386
+nm2773757,tt1483324
+nm4351467,tt1592873
+nm3610886,tt1592873
+nm3773893,tt1709143
+nm0206092,tt1709143
+nm0484475,tt1764625
+nm0529787,tt1764625
+nm1729366,tt1764625
+nm0602508,tt1764625
+nm0309027,tt1764625
+nm3208946,tt1833116
+nm0423626,tt1833116
+nm1892927,tt1833116
+nm3553816,tt1833116
+nm2198611,tt1837562
+nm0393495,tt1837562
+nm0578850,tt1846442
+nm0115114,tt1846442
+nm4671079,tt1846442
+nm6890017,tt1974419
+nm6031291,tt1974419
+nm0906413,tt2165735
+nm0946883,tt2165735
+nm4661537,tt2165735
+nm5470609,tt2165735
+nm0937074,tt2308260
+nm4202937,tt2323964
+nm3002771,tt2323964
+nm4082640,tt2323964
+nm1597917,tt2338424
+nm0302339,tt2391224
+nm1636278,tt2391224
+nm1467650,tt2391224
+nm0951390,tt2751074
+nm0450509,tt2751074
+nm0452674,tt2751074
+nm0678467,tt2844798
+nm5032902,tt2844798
+nm0970537,tt2844798
+nm4655557,tt3404140
+nm1163823,tt3435532
+nm0713911,tt3780500
+nm0792670,tt3780500
+nm9364546,tt3780500
+nm0878494,tt4048668
+nm0561359,tt5179598
+nm2916300,tt5368542
+nm6052646,tt5542802
+nm3789785,tt5542802
+nm5969139,tt5542802
+nm1474875,tt5700176
+nm0871857,tt5700176
+nm0730422,tt6045466
+nm2675515,tt6390668
+nm1972905,tt6390668
+nm10152548,tt6390668
+nm4112021,tt6463320
+nm0323196,tt6543652
+nm2819873,tt6543652
+nm0881418,tt7059844
+nm0795651,tt7059844
+nm3606561,tt7059844
+nm1758539,tt7721800
+nm4313283,tt7721800
+nm3784276,tt8239946
+nm10304029,tt8239946
+nm1167599,tt8368406
+nm5003154,tt8543952
+nm4697729,tt8543952
+nm1639992,tt8543952
+nm5666772,tt8804580
+nm6497808,tt8804580
+nm3060331,tt8983164
+nm2748159,tt8983164
+nm5113220,tt8983164
+nm12117035,tt8983164
+nm3451648,tt9176086
+nm1193115,tt9805612
+nm7220895,tt9805612
+nm5003154,tt9906260
+nm4697729,tt9906260
+nm1639992,tt9906260
+nm0568539,tt0073760
+nm0344065,tt0073760
+nm0846884,tt0075200
+nm0759041,tt0075200
+nm0022492,tt0076137
+nm0625316,tt0076137
+nm0119423,tt0076137
+nm0027011,tt0076618
+nm0789100,tt0076618
+nm0166307,tt0076618
+nm0549393,tt0078158
+nm0450720,tt0078158
+nm0432075,tt0079588
+nm0122698,tt0079588
+nm0846884,tt0080861
+nm0119423,tt0080861
+nm0665305,tt0082474
+nm0850695,tt0082474
+nm0432075,tt0082474
+nm0741439,tt0082474
+nm0548808,tt0083481
+nm0498278,tt0083481
+nm0456158,tt0083481
+nm0228492,tt0083481
+nm4631473,tt0083481
+nm0682752,tt0094739
+nm0747822,tt0094739
+nm5927608,tt0096438
+nm0937757,tt0096438
+nm0696949,tt0096438
+nm0780620,tt0096438
+nm5927607,tt0096438
+nm3071117,tt0097757
+nm0026153,tt0097757
+nm0039141,tt0097757
+nm0334057,tt0097757
+nm0000455,tt0104431
+nm0248054,tt0104437
+nm0002340,tt0104437
+nm0951206,tt0104437
+nm0619547,tt0104437
+nm0329340,tt0104437
+nm0397411,tt0105417
+nm0414551,tt0105958
+nm0446190,tt0105958
+nm0796848,tt0106611
+nm0006916,tt0106611
+nm0842476,tt0106611
+nm0325271,tt0106611
+nm0456946,tt0107120
+nm0308376,tt0107120
+nm0193854,tt0107120
+nm0122484,tt0107131
+nm0003031,tt0107131
+nm0941314,tt0107131
+nm0109359,tt0109520
+nm0026153,tt0111419
+nm0233233,tt0113198
+nm0536440,tt0113198
+nm0558533,tt0113198
+nm0683724,tt0113198
+nm0035664,tt0113198
+nm0242059,tt0113862
+nm0606611,tt0114048
+nm0704164,tt0114048
+nm0467942,tt0114048
+nm0169505,tt0114709
+nm0230032,tt0114709
+nm0004056,tt0114709
+nm0710020,tt0114709
+nm0923736,tt0114709
+nm0838015,tt0114924
+nm0495863,tt0114924
+nm0218621,tt0116669
+nm0618800,tt0116669
+nm0925276,tt0118617
+nm0310319,tt0118617
+nm0333949,tt0118617
+nm0879318,tt0118617
+nm0698493,tt0119718
+nm0792624,tt0119718
+nm0398763,tt0120363
+nm0230032,tt0120363
+nm0004056,tt0120363
+nm0335666,tt0120631
+nm0663002,tt0120631
+nm0674518,tt0120631
+nm0741697,tt0128890
+nm0338396,tt0130623
+nm0258059,tt0130623
+nm0365666,tt0130623
+nm0414608,tt0130623
+nm0527581,tt0147800
+nm0809006,tt0147800
+nm0000636,tt0147800
+nm0925276,tt0211181
+nm0807977,tt0211181
+nm0118649,tt0211181
+nm0716391,tt0211181
+nm0879318,tt0211181
+nm0951392,tt0230011
+nm0614742,tt0230011
+nm0923736,tt0230011
+nm0007233,tt0230011
+nm0127690,tt0247638
+nm0920859,tt0247638
+nm0462164,tt0249677
+nm0609600,tt0249677
+nm0744793,tt0249677
+nm0737241,tt0249677
+nm0314480,tt0265632
+nm0030651,tt0265632
+nm0338537,tt0265632
+nm0755551,tt0271271
+nm0093098,tt0271271
+nm0471217,tt0271271
+nm1075184,tt0273799
+nm0077080,tt0273799
+nm0085933,tt0273799
+nm0007079,tt0273799
+nm0460458,tt0273842
+nm0805957,tt0273842
+nm0044810,tt0283084
+nm0509340,tt0283084
+nm0366337,tt0283084
+nm0661275,tt0294425
+nm1047701,tt0294425
+nm1070424,tt0296251
+nm0471217,tt0296251
+nm0833828,tt0304669
+nm0722610,tt0304669
+nm0666791,tt0304669
+nm0202425,tt0304669
+nm0214036,tt0304669
+nm1498344,tt0361089
+nm0441750,tt0361089
+nm1276664,tt0361089
+nm0076791,tt0361089
+nm0668754,tt0363771
+nm1321655,tt0363771
+nm1321656,tt0363771
+nm0507000,tt0363771
+nm1469874,tt0368891
+nm0467942,tt0368891
+nm0926727,tt0368891
+nm0926729,tt0368891
+nm0043233,tt0368891
+nm0198557,tt0377770
+nm0376245,tt0377770
+nm0677037,tt0382932
+nm0135296,tt0382932
+nm1486235,tt0382932
+nm1271884,tt0382932
+nm0227540,tt0401398
+nm1902232,tt0401398
+nm1713427,tt0401398
+nm0737241,tt0401398
+nm0257177,tt0410696
+nm0257171,tt0410696
+nm0073504,tt0410696
+nm0926727,tt0436339
+nm0926729,tt0436339
+nm0416408,tt0436339
+nm0363958,tt0452598
+nm0864471,tt0452598
+nm0318326,tt0452598
+nm0136950,tt0452598
+nm0349966,tt0457993
+nm0432612,tt0457993
+nm0524710,tt0457993
+nm0000184,tt0458290
+nm0934897,tt0486761
+nm0213450,tt0486761
+nm0550578,tt0852863
+nm0326247,tt0870154
+nm0338169,tt0870154
+nm0275629,tt0870154
+nm0720135,tt0870154
+nm0636358,tt0870154
+nm0682066,tt0945571
+nm0102691,tt0945571
+nm0900140,tt0952640
+nm0574509,tt0952640
+nm0899531,tt0952640
+nm0046564,tt0952640
+nm0058302,tt0962726
+nm0595088,tt0997047
+nm0933144,tt0997047
+nm0666791,tt0997047
+nm0202425,tt0997047
+nm0073504,tt1013542
+nm0304091,tt1013542
+nm1339000,tt1013542
+nm0806473,tt1013542
+nm0291442,tt1053810
+nm2696996,tt1053810
+nm0304830,tt1078912
+nm0502073,tt1078912
+nm1115263,tt1090750
+nm0689954,tt1127884
+nm0180902,tt1127884
+nm0639434,tt1127884
+nm1344116,tt1159961
+nm2876788,tt11681250
+nm2602433,tt11681250
+nm0831557,tt1204342
+nm0001345,tt1204342
+nm0817023,tt1294226
+nm3491486,tt1294226
+nm0918083,tt1334106
+nm0973233,tt1334106
+nm1129269,tt1334106
+nm0859471,tt1334106
+nm1079460,tt1334106
+nm0000370,tt14602326
+nm0057321,tt14602326
+nm8566357,tt14602326
+nm0507355,tt14602326
+nm0001345,tt14602326
+nm0081081,tt1485796
+nm0174374,tt1485796
+nm0189137,tt1571313
+nm0389668,tt1571313
+nm2251854,tt1604171
+nm0064181,tt1790809
+nm0622288,tt1790809
+nm0744429,tt1790809
+nm0254645,tt1790809
+nm0395271,tt1843230
+nm0457736,tt1843230
+nm0578850,tt1846442
+nm0115114,tt1846442
+nm4671079,tt1846442
+nm0250518,tt1865769
+nm0048832,tt1865769
+nm0891291,tt1865769
+nm0545150,tt2140373
+nm0810055,tt2140373
+nm0566833,tt2252938
+nm0397377,tt2980706
+nm1379619,tt3089630
+nm0566100,tt3089630
+nm0574217,tt3089630
+nm1587813,tt3228774
+nm1401416,tt3228774
+nm1110111,tt3228774
+nm0112459,tt3228774
+nm0545150,tt3228774
+nm0052520,tt4777008
+nm0941314,tt4777008
+nm1406764,tt4777008
+nm2873116,tt4777008
+nm0674518,tt4777008
+nm2284377,tt4846340
+nm7446421,tt4846340
+nm0178910,tt5104604
+nm0005403,tt5104604
+nm1440081,tt5104604
+nm1291392,tt7146812
+nm3268751,tt7146812
+nm2608366,tt8336340
+nm1396048,tt8336340
+nm1848009,tt8336340
+nm2689816,tt8980868
+nm2394516,tt8980868
+nm2832163,tt0098999
+nm0434318,tt0098999
+nm0765454,tt0098999
+nm0399737,tt0102065
+nm0192090,tt0102065
+nm0630012,tt0102065
+nm0384398,tt0102744
+nm0445474,tt0107311
+nm0659238,tt0107311
+nm0505615,tt0108162
+nm0000390,tt0108162
+nm0766921,tt0116996
+nm0114083,tt0116996
+nm0312481,tt0116996
+nm0940071,tt0116996
+nm0694035,tt0116996
+nm0382437,tt0117765
+nm0549256,tt0118571
+nm0932078,tt0134084
+nm0472567,tt0134084
+nm0405190,tt0181739
+nm0541720,tt0185183
+nm0788526,tt0185183
+nm0399196,tt0185183
+nm0910924,tt0190332
+nm0770005,tt0190332
+nm0874631,tt0190332
+nm0238893,tt0190332
+nm0567112,tt0295178
+nm0101991,tt0347436
+nm1622375,tt0347436
+nm0866058,tt0347436
+nm0020820,tt0369436
+nm0933128,tt0369436
+nm0524190,tt0369436
+nm0601859,tt0369436
+nm0874683,tt0373074
+nm0403230,tt0373074
+nm0151013,tt0373074
+nm0907296,tt0377818
+nm1016088,tt0377818
+nm1627554,tt0377818
+nm0737216,tt0431308
+nm1754499,tt0431308
+nm1146102,tt0456149
+nm0464548,tt0457433
+nm0092578,tt0457433
+nm0455590,tt0462482
+nm13204541,tt0478087
+nm1615610,tt0478087
+nm0583826,tt0478087
+nm0004412,tt0780567
+nm0558533,tt0780567
+nm1330994,tt0811066
+nm2632735,tt0811066
+nm1895871,tt0914376
+nm1943168,tt0914376
+nm10847687,tt10627720
+nm0650089,tt1219342
+nm2145339,tt1219342
+nm0489691,tt1219342
+nm1782844,tt12411074
+nm0410877,tt1315981
+nm3179694,tt1315981
+nm4395704,tt13318052
+nm2182068,tt14252964
+nm2099207,tt14252964
+nm0782436,tt1504320
+nm2539064,tt1528406
+nm0812228,tt1528406
+nm2244980,tt1552211
+nm3559500,tt1552211
+nm11515938,tt1552211
+nm0803931,tt1613750
+nm1319618,tt1648186
+nm1276348,tt1648186
+nm0039328,tt1648186
+nm4874963,tt1999167
+nm1618263,tt1999167
+nm0545150,tt2140373
+nm0810055,tt2140373
+nm0905818,tt2172584
+nm4856427,tt2186933
+nm0482510,tt2467046
+nm1146036,tt2467046
+nm0481542,tt2467046
+nm0420874,tt2467046
+nm0125336,tt2473602
+nm3890871,tt2473602
+nm0047076,tt2473602
+nm0729151,tt2720826
+nm0929349,tt2720826
+nm5099091,tt2720826
+nm1157609,tt3169770
+nm0050722,tt3352390
+nm2279441,tt3352390
+nm7362281,tt3398976
+nm7362280,tt3398976
+nm0471392,tt3532628
+nm1912955,tt3532628
+nm3160583,tt3532628
+nm2749064,tt3532628
+nm1289517,tt3544734
+nm7457660,tt3544734
+nm2785000,tt3544734
+nm1103326,tt3544734
+nm5266906,tt3544734
+nm3258929,tt3848888
+nm0223606,tt3848888
+nm0672103,tt4030600
+nm6765196,tt4030600
+nm4928977,tt4779326
+nm0951592,tt4919484
+nm4570486,tt5126922
+nm7754516,tt5189894
+nm2516963,tt5197860
+nm2154927,tt5639446
+nm3226031,tt5639446
+nm13597298,tt5946128
+nm3613395,tt5946128
+nm0000175,tt6214928
+nm2425790,tt6259380
+nm0392668,tt6402468
+nm2701239,tt6522546
+nm0795575,tt6595896
+nm0846969,tt6595896
+nm1316290,tt6595896
+nm4080102,tt6892462
+nm4380548,tt6892462
+nm1369364,tt6927152
+nm2008414,tt6927152
+nm5434379,tt6927152
+nm1139317,tt7315484
+nm0886749,tt7315484
+nm2423304,tt7315484
+nm11224439,tt7605074
+nm4069148,tt7605074
+nm9400701,tt7605074
+nm9400700,tt7605074
+nm9400702,tt7605074
+nm1440919,tt8009744
+nm2309496,tt8110640
+nm2205460,tt8110640
+nm1132209,tt8688814
+nm2541892,tt8688814
+nm0204030,tt8741648
+nm6306573,tt9251798
+nm0696769,tt9251798
+nm0075666,tt9425132
+nm1757129,tt9760504
+nm1906725,tt9820352
+nm0584427,tt0072562
+nm0589357,tt0082782
+nm0063583,tt0082782
+nm0000455,tt0094006
+nm0075276,tt0096542
+nm0093748,tt0096542
+nm0777209,tt0096542
+nm0004111,tt0098936
+nm0000186,tt0098936
+nm0029628,tt0098948
+nm0143517,tt0098948
+nm0497115,tt0098948
+nm0823015,tt0103491
+nm0392848,tt0108872
+nm0905458,tt0110216
+nm0175620,tt0110216
+nm0685587,tt0119008
+nm0940361,tt0119008
+nm0001921,tt0119008
+nm0005562,tt0128445
+nm0498278,tt0145487
+nm0228492,tt0145487
+nm0462895,tt0145487
+nm0663789,tt0239195
+nm0752841,tt0286486
+nm1568308,tt0338096
+nm0755969,tt0338096
+nm0945026,tt0338096
+nm0002982,tt0338096
+nm0101639,tt0345061
+nm0777043,tt0368530
+nm0156100,tt0410975
+nm0631488,tt0435961
+nm0361274,tt0460627
+nm0599393,tt0462499
+nm0606251,tt0462499
+nm0738899,tt0490668
+nm9261564,tt0490668
+nm0000916,tt0758745
+nm0462895,tt0808151
+nm0326040,tt0808151
+nm1467010,tt0808151
+nm0939606,tt0974613
+nm0772384,tt0974613
+nm0005082,tt11794642
+nm0242472,tt1191056
+nm1558946,tt1213012
+nm0219270,tt1213012
+nm1004299,tt12306692
+nm0614682,tt12306692
+nm0242472,tt1411598
+nm0081334,tt1441109
+nm0492639,tt1441109
+nm1054604,tt1489887
+nm2873539,tt1489887
+nm2573005,tt1489887
+nm4199289,tt1489887
+nm0132319,tt1552112
+nm0001403,tt1582457
+nm1014201,tt1583421
+nm1116660,tt1583421
+nm1557594,tt1694020
+nm9209737,tt1694020
+nm2113666,tt1772379
+nm0484907,tt1778304
+nm2305431,tt1778304
+nm0471352,tt1821681
+nm1440023,tt1853739
+nm0064479,tt1951264
+nm1578335,tt1951264
+nm1056741,tt1951264
+nm0000636,tt2094064
+nm0841532,tt2100546
+nm3508936,tt2100546
+nm0310087,tt2100546
+nm0363958,tt2100546
+nm0718514,tt2100546
+nm4784201,tt2118624
+nm0588679,tt2118624
+nm0156100,tt2226342
+nm1110111,tt2235759
+nm0081179,tt2586120
+nm4380548,tt2586120
+nm0868219,tt2654620
+nm2353561,tt2654620
+nm0743048,tt2660806
+nm0331212,tt2660806
+nm0521143,tt2660806
+nm1882744,tt2705602
+nm0999606,tt2705602
+nm0614414,tt2705602
+nm1279638,tt2802850
+nm1363595,tt2861424
+nm1383735,tt3316796
+nm0001104,tt3316796
+nm3079117,tt3316796
+nm3877885,tt3316796
+nm1891501,tt3316796
+nm3273770,tt3859272
+nm6016499,tt3859272
+nm0484840,tt4047038
+nm2919995,tt4189492
+nm6204450,tt4307902
+nm6144403,tt4307902
+nm0831557,tt4307902
+nm1148550,tt4419214
+nm2380520,tt4536768
+nm1200650,tt4903242
+nm1729294,tt5056196
+nm2391575,tt5056196
+nm3360706,tt5093026
+nm0153508,tt5093026
+nm0874308,tt5093026
+nm0783913,tt5093026
+nm8492187,tt6128254
+nm1258777,tt6304046
+nm0251050,tt6450804
+nm0275286,tt6450804
+nm1221634,tt6450804
+nm0712753,tt6450804
+nm0000116,tt6450804
+nm0794914,tt6470478
+nm2212280,tt6548228
+nm1933058,tt6548228
+nm4461870,tt6768578
+nm0158323,tt6768578
+nm0309979,tt6768578
+nm3583024,tt6768578
+nm4462605,tt6768578
+nm1244069,tt7018644
+nm0932831,tt7018644
+nm1104036,tt7078658
+nm2366133,tt7078658
+nm0733988,tt7078658
+nm2207641,tt7242816
+nm0569838,tt7242816
+nm0554167,tt7589524
+nm6152442,tt7616148
+nm5212440,tt8089526
+nm0329634,tt8089526
+nm1321658,tt8089526
+nm1472469,tt8089526
+nm3194501,tt8089526
+nm4167257,tt8663516
+nm0238841,tt8663516
+nm0480843,tt8663516
+nm0276169,tt8663516
+nm3468121,tt9223870
+nm1187871,tt9223870
+nm2057975,tt9418572
