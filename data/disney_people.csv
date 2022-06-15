@@ -1,0 +1,986 @@
+,tconst,ordering,nconst,category,job,characters
+623312,tt0073760,10,nm0413262,cinematographer,director of photography,\N
+623313,tt0073760,1,nm0000621,actor,\N,"[""Dexter Riley""]"
+623314,tt0073760,2,nm0283499,actor,\N,"[""Dean Higgins""]"
+623315,tt0073760,3,nm0000781,actress,\N,"[""Harriet Crumply""]"
+623316,tt0073760,4,nm0003110,actor,\N,"[""A.J. Arno""]"
+623317,tt0073760,5,nm0568546,director,\N,\N
+623318,tt0073760,6,nm0568539,writer,written by,\N
+623319,tt0073760,7,nm0344065,writer,written by,\N
+623320,tt0073760,8,nm0026419,producer,producer,\N
+623321,tt0073760,9,nm0005979,composer,\N,\N
+635990,tt0075200,10,nm0680402,cinematographer,director of photography,\N
+635991,tt0075200,1,nm0427894,actor,\N,"[""Wilby Daniels""]"
+635992,tt0075200,2,nm0687189,actress,\N,"[""Betty Daniels""]"
+635993,tt0075200,3,nm0176792,actor,\N,"[""Tim""]"
+635994,tt0075200,4,nm0943978,actor,\N,"[""John Slade""]"
+635995,tt0075200,5,nm0829038,director,\N,\N
+635996,tt0075200,6,nm0846884,writer,screenplay,\N
+635997,tt0075200,7,nm0759041,writer,"novel ""The Hound of Florence""",\N
+635998,tt0075200,8,nm0026419,producer,producer,\N
+635999,tt0075200,9,nm0048301,composer,\N,\N
+644310,tt0076137,10,nm0006030,composer,\N,\N
+644311,tt0076137,1,nm0427894,actor,\N,"[""Jim Douglas""]"
+644312,tt0076137,2,nm0461455,actor,\N,"[""Wheely Applegate""]"
+644313,tt0076137,3,nm0813940,actress,\N,"[""Diane Darcy""]"
+644314,tt0076137,4,nm0547462,actor,\N,"[""Inspector Bouchet""]"
+644315,tt0076137,5,nm0568546,director,\N,\N
+644316,tt0076137,6,nm0022492,writer,written by,\N
+644317,tt0076137,7,nm0625316,writer,written by,\N
+644318,tt0076137,8,nm0119423,writer,characters created by,\N
+644319,tt0076137,9,nm0589253,producer,producer,\N
+648634,tt0076618,10,nm0027011,writer,story,\N
+648635,tt0076618,1,nm0627878,actor,\N,"[""Bernard""]"
+648636,tt0076618,2,nm0001247,actress,\N,"[""Miss Bianca""]"
+648637,tt0076618,3,nm0656183,actress,\N,"[""Madame Medusa""]"
+648638,tt0076618,4,nm0283499,actor,\N,"[""Mr. Snoops""]"
+648639,tt0076618,5,nm0522028,director,\N,\N
+648640,tt0076618,6,nm0718627,director,\N,\N
+648641,tt0076618,7,nm0828245,director,\N,\N
+648642,tt0076618,8,nm0789100,writer,"suggested by ""The Rescuers"" and ""Miss Bianca"" by",\N
+648643,tt0076618,9,nm0166307,writer,story,\N
+662490,tt0078158,10,nm0006277,composer,\N,\N
+662491,tt0078158,1,nm0000012,actress,\N,"[""Letha""]"
+662492,tt0078158,2,nm0000489,actor,\N,"[""Victor""]"
+662493,tt0078158,3,nm0001668,actress,\N,"[""Tia""]"
+662494,tt0078158,4,nm0252055,actor,\N,"[""Tony""]"
+662495,tt0078158,5,nm0396421,director,\N,\N
+662496,tt0078158,6,nm0549393,writer,written by,\N
+662497,tt0078158,7,nm0450720,writer,characters,\N
+662498,tt0078158,8,nm0183857,producer,producer,\N
+662499,tt0078158,9,nm0589253,producer,producer,\N
+675344,tt0079588,10,nm0542552,cinematographer,director of photography,\N
+675345,tt0079588,1,nm0001345,actor,\N,"[""Kermit the Frog"",""Rowlf"",""Dr. Teeth""]"
+675346,tt0079588,2,nm0000568,actor,\N,"[""Miss Piggy"",""Fozzie Bear"",""Animal""]"
+675347,tt0079588,3,nm0625456,actor,\N,"[""Floyd Pepper"",""Crazy Harry"",""Robin the Frog""]"
+675348,tt0079588,4,nm0402611,actor,\N,"[""Scooter"",""Statler"",""Janice""]"
+675349,tt0079588,5,nm0292419,director,\N,\N
+675350,tt0079588,6,nm0432075,writer,written by,\N
+675351,tt0079588,7,nm0122698,writer,written by,\N
+675352,tt0079588,8,nm0038502,composer,\N,\N
+675353,tt0079588,9,nm0931437,composer,\N,\N
+686575,tt0080861,10,nm0680402,cinematographer,director of photography,\N
+686576,tt0080861,1,nm0001747,actor,\N,"[""D.J.""]"
+686577,tt0080861,2,nm0122881,actor,\N,"[""Pete""]"
+686578,tt0080861,3,nm0001458,actress,\N,"[""Aunt Louise""]"
+686579,tt0080861,4,nm0006893,actor,\N,"[""Prindle""]"
+686580,tt0080861,5,nm0568546,director,\N,\N
+686581,tt0080861,6,nm0846884,writer,written by,\N
+686582,tt0080861,7,nm0119423,writer,characters creator,\N
+686583,tt0080861,8,nm0589253,producer,producer,\N
+686584,tt0080861,9,nm0006030,composer,\N,\N
+700870,tt0082474,10,nm0710809,composer,\N,\N
+700871,tt0082474,1,nm0001345,actor,\N,"[""Kermit the Frog"",""Rowlf"",""Dr. Teeth""]"
+700872,tt0082474,2,nm0000568,actor,\N,"[""Miss Piggy"",""Fozzie Bear"",""Animal""]"
+700873,tt0082474,3,nm0324397,actor,\N,"[""The Great Gonzo"",""Beauregard"",""Zoot""]"
+700874,tt0082474,4,nm0625456,actor,\N,"[""Floyd Pepper"",""Pops"",""Lew Zealand""]"
+700875,tt0082474,5,nm0665305,writer,written by,\N
+700876,tt0082474,6,nm0850695,writer,written by,\N
+700877,tt0082474,7,nm0432075,writer,written by,\N
+700878,tt0082474,8,nm0741439,writer,written by,\N
+700879,tt0082474,9,nm0493874,producer,producer,\N
+709766,tt0083481,10,nm0308744,actress,\N,"[""Angelica Jones"",""Firestar"",""Ororo Munroe""]"
+709767,tt0083481,1,nm0175788,actor,\N,"[""Red Skull"",""The Chameleon""]"
+709768,tt0083481,2,nm0432217,actress,\N,"[""Mona Osborn""]"
+709769,tt0083481,3,nm0263057,actor,\N,"[""Professor Wells""]"
+709770,tt0083481,4,nm0004931,actress,\N,"[""Aunt May Parker"",""Aunt May""]"
+709771,tt0083481,5,nm0548808,writer,written by,\N
+709772,tt0083481,6,nm0498278,writer,creator,\N
+709773,tt0083481,7,nm0456158,writer,creator,\N
+709774,tt0083481,8,nm0228492,writer,creator,\N
+709775,tt0083481,9,nm4631473,writer,creator: Firestar,\N
+809414,tt0094739,10,nm0002626,composer,\N,\N
+809415,tt0094739,1,nm0000541,actress,\N,"[""Sadie Shelton"",""Sadie Ratliff""]"
+809416,tt0094739,2,nm0005499,actress,\N,"[""Rose Shelton"",""Rose Ratliff""]"
+809417,tt0094739,3,nm0911542,actor,\N,"[""Roone Dimmick""]"
+809418,tt0094739,4,nm0001346,actor,\N,"[""Graham Sherbourne""]"
+809419,tt0094739,5,nm0000720,director,\N,\N
+809420,tt0094739,6,nm0682752,writer,written by,\N
+809421,tt0094739,7,nm0747822,writer,written by,\N
+809422,tt0094739,8,nm0679017,producer,producer,\N
+809423,tt0094739,9,nm0005494,producer,producer,\N
+824443,tt0096438,10,nm5927608,writer,"character: Huey, Dewey, and Louie Duck",\N
+824444,tt0096438,1,nm0001364,actor,\N,"[""Eddie Valiant""]"
+824445,tt0096438,2,nm0000502,actor,\N,"[""Judge Doom""]"
+824446,tt0096438,3,nm0001026,actress,\N,"[""Dolores""]"
+824447,tt0096438,4,nm0281486,actor,\N,"[""Roger Rabbit"",""Benny the Cab"",""Greasy""]"
+824448,tt0096438,5,nm0000709,director,\N,\N
+824449,tt0096438,6,nm0937757,writer,"novel ""Who Censored Roger Rabbit?""",\N
+824450,tt0096438,7,nm0696949,writer,screenplay,\N
+824451,tt0096438,8,nm0780620,writer,screenplay,\N
+824452,tt0096438,9,nm5927607,writer,"character: Huey, Dewey, and Louie Duck",\N
+836072,tt0097757,10,nm3071117,writer,additional dialogue,\N
+836073,tt0097757,1,nm0072533,actress,\N,"[""Ariel""]"
+836074,tt0097757,2,nm0942787,actor,\N,"[""Sebastian""]"
+836075,tt0097757,3,nm0041281,actor,\N,"[""Louis""]"
+836076,tt0097757,4,nm0055549,actor,\N,"[""Eric""]"
+836077,tt0097757,5,nm0166256,director,\N,\N
+836078,tt0097757,6,nm0615780,director,\N,\N
+836079,tt0097757,7,nm0026153,writer,based on the fairy tale by,\N
+836080,tt0097757,8,nm0039141,writer,additional dialogue,\N
+836081,tt0097757,9,nm0334057,writer,additional dialogue,\N
+865014,tt0101076,10,nm0384162,actress,\N,"[""Tank Muddlefoot""]"
+865015,tt0101076,1,nm0191906,actor,\N,"[""Darkwing Duck"",""Drake Mallard"",""Herb Muddlefoot""]"
+865016,tt0101076,2,nm0569598,actor,\N,"[""Launchpad McQuack"",""Gumball"",""Launchpad""]"
+865017,tt0101076,3,nm0004815,actress,\N,"[""Gosalyn Waddlemeyer-Mallard"",""Gosalyn Waddlemeyer"",""Girl""]"
+865018,tt0101076,4,nm0500246,actress,\N,"[""Honker Muddlefoot"",""Additional Voices"",""Honkulon""]"
+865019,tt0101076,5,nm0866214,actress,\N,"[""Binkie Muddlefoot"",""Additional Voices"",""Aunt Trudy""]"
+865020,tt0101076,6,nm0144657,actor,\N,"[""Megavolt"",""Elmo Sputterspark"",""Loudspeaker Announcer""]"
+865021,tt0101076,7,nm0919798,actor,\N,"[""Eek"",""Squeak"",""Archie""]"
+865022,tt0101076,8,nm0542706,actor,\N,"[""J. Gander Hooter"",""Additional Voices"",""Additional voices""]"
+865023,tt0101076,9,nm0409361,actor,\N,"[""Dr. Reginald Bushroot"",""Costumer with dentures"",""Crosby""]"
+894051,tt0104431,10,nm0893079,production_designer,\N,\N
+894052,tt0104431,1,nm0000346,actor,\N,"[""Kevin""]"
+894053,tt0104431,2,nm0000582,actor,\N,"[""Harry""]"
+894054,tt0104431,3,nm0827663,actor,\N,"[""Marv""]"
+894055,tt0104431,4,nm0001573,actress,\N,"[""Kate""]"
+894056,tt0104431,5,nm0001060,director,\N,\N
+894057,tt0104431,6,nm0000455,writer,characters,\N
+894058,tt0104431,7,nm0002354,composer,\N,\N
+894059,tt0104431,8,nm0531310,cinematographer,director of photography,\N
+894060,tt0104431,9,nm0331532,editor,\N,\N
+894097,tt0104437,10,nm0248054,writer,screenplay,\N
+894098,tt0104437,1,nm0001548,actor,\N,"[""Wayne""]"
+894099,tt0104437,2,nm0833519,actress,\N,"[""Diane""]"
+894100,tt0104437,3,nm0647084,actor,\N,"[""Nick""]"
+894101,tt0104437,4,nm0787741,actor,\N,"[""Adam""]"
+894102,tt0104437,5,nm0459170,director,\N,\N
+894103,tt0104437,6,nm0002340,writer,characters,\N
+894104,tt0104437,7,nm0951206,writer,characters,\N
+894105,tt0104437,8,nm0619547,writer,characters,\N
+894106,tt0104437,9,nm0329340,writer,story,\N
+902418,tt0105417,10,nm0357023,editor,\N,\N
+902419,tt0105417,1,nm0000155,actress,\N,"[""Deloris""]"
+902420,tt0105417,2,nm0001749,actress,\N,"[""Mother Superior""]"
+902421,tt0105417,3,nm0001562,actress,\N,"[""Mary Patrick""]"
+902422,tt0105417,4,nm0538655,actress,\N,"[""Mary Robert""]"
+902423,tt0105417,5,nm0001915,director,\N,\N
+902424,tt0105417,6,nm0397411,writer,written by,\N
+902425,tt0105417,7,nm0777462,producer,producer,\N
+902426,tt0105417,8,nm0003299,composer,\N,\N
+902427,tt0105417,9,nm0004229,cinematographer,\N,\N
+907050,tt0105958,10,nm0725864,actress,\N,"[""Morgan Matthews"",""Aggressive Actress""]"
+907051,tt0105958,1,nm0005399,actor,\N,"[""Cory Matthews"",""Ben Sandwich"",""Rory""]"
+907052,tt0105958,2,nm0835045,actor,\N,"[""Shawn Hunter"",""Isaac 'Goodshot' Kelly"",""Schneider""]"
+907053,tt0105958,3,nm0200122,actor,\N,"[""George Feeny"",""Captain Feeny"",""Fez-head""]"
+907054,tt0105958,4,nm0709808,actress,\N,"[""Amy Matthews"",""Ella Fitzgerald-Kennedy"",""Natasha""]"
+907055,tt0105958,5,nm0414551,writer,created by,\N
+907056,tt0105958,6,nm0446190,writer,created by,\N
+907057,tt0105958,7,nm0295115,actor,\N,"[""Eric Matthews"",""Gumshoe"",""Self""]"
+907058,tt0105958,8,nm0750916,actor,\N,"[""Alan Matthews"",""Boris"",""Costello""]"
+907059,tt0105958,9,nm0004918,actress,\N,"[""Topanga Lawrence"",""Topanga Matthews"",""Trixie""]"
+912714,tt0106611,10,nm0824406,producer,producer,\N
+912715,tt0106611,1,nm0001006,actor,\N,"[""Irv""]"
+912716,tt0106611,2,nm0502442,actor,\N,"[""Derice Bannock""]"
+912717,tt0106611,3,nm0234791,actor,\N,"[""Sanka Coffie""]"
+912718,tt0106611,4,nm0507644,actor,\N,"[""Junior Bevil""]"
+912719,tt0106611,5,nm0005509,director,\N,\N
+912720,tt0106611,6,nm0796848,writer,story,\N
+912721,tt0106611,7,nm0006916,writer,story,\N
+912722,tt0106611,8,nm0842476,writer,screenplay,\N
+912723,tt0106611,9,nm0325271,writer,screenplay,\N
+917027,tt0107120,10,nm0002201,composer,\N,\N
+917028,tt0107120,1,nm0000541,actress,\N,"[""Winifred""]"
+917029,tt0107120,2,nm0000572,actress,\N,"[""Sarah""]"
+917030,tt0107120,3,nm0001562,actress,\N,"[""Mary""]"
+917031,tt0107120,4,nm0441814,actor,\N,"[""Max""]"
+917032,tt0107120,5,nm0650905,director,\N,\N
+917033,tt0107120,6,nm0456946,writer,story,\N
+917034,tt0107120,7,nm0308376,writer,story,\N
+917035,tt0107120,8,nm0193854,writer,screenplay,\N
+917036,tt0107120,9,nm0353187,producer,producer,\N
+917111,tt0107131,10,nm0506410,producer,producer,\N
+917112,tt0107131,1,nm0000150,actor,\N,"[""Chance""]"
+917113,tt0107131,2,nm0000398,actress,\N,"[""Sassy""]"
+917114,tt0107131,3,nm0017519,actor,\N,"[""Molly's Father""]"
+917115,tt0107131,4,nm0076204,actor,\N,"[""Desk Sergeant""]"
+917116,tt0107131,5,nm0242271,director,\N,\N
+917117,tt0107131,6,nm0122484,writer,"novel ""The Incredible Journey""",\N
+917118,tt0107131,7,nm0003031,writer,screenplay,\N
+917119,tt0107131,8,nm0941314,writer,screenplay,\N
+917120,tt0107131,9,nm0155942,producer,producer,\N
+937372,tt0109520,10,nm0410419,cinematographer,director of photography,\N
+937373,tt0109520,1,nm0000389,actor,\N,"[""Gordon Bombay""]"
+937374,tt0109520,2,nm0002062,actress,\N,"[""Michele""]"
+937375,tt0109520,3,nm0875951,actor,\N,"[""Tibbles""]"
+937376,tt0109520,4,nm0747962,actor,\N,"[""Jan""]"
+937377,tt0109520,5,nm0918873,director,\N,\N
+937378,tt0109520,6,nm0109359,writer,characters,\N
+937379,tt0109520,7,nm0000816,producer,producer,\N
+937380,tt0109520,8,nm0449549,producer,producer,\N
+937381,tt0109520,9,nm0002370,composer,\N,\N
+953485,tt0111419,10,nm0743919,composer,\N,\N
+953486,tt0111419,1,nm0072533,actress,\N,"[""Thumbelina""]"
+953487,tt0111419,2,nm0408189,actor,\N,"[""Prince Cornelius""]"
+953488,tt0111419,3,nm0174581,actor,\N,"[""Jacquimo""]"
+953489,tt0111419,4,nm0176904,actress,\N,"[""Mother""]"
+953490,tt0111419,5,nm0089940,director,\N,\N
+953491,tt0111419,6,nm0325776,director,\N,\N
+953492,tt0111419,7,nm0026153,writer,original classic fairytale,\N
+953493,tt0111419,8,nm0690112,producer,producer,\N
+953494,tt0111419,9,nm0005180,composer,\N,\N
+962578,tt0112499,10,nm0757136,production_designer,\N,\N
+962579,tt0112499,1,nm0000430,actor,\N,"[""Sheriff Tom Palmer""]"
+962580,tt0112499,2,nm0001882,actress,\N,"[""Miss Anna Montgomery""]"
+962581,tt0112499,3,nm0761587,actor,\N,"[""Coach Jay Huffer""]"
+962582,tt0112499,4,nm0856012,actor,\N,"[""Edwin V. Douglas""]"
+962583,tt0112499,5,nm0805965,director,\N,\N
+962584,tt0112499,6,nm0083696,producer,producer,\N
+962585,tt0112499,7,nm0006055,composer,\N,\N
+962586,tt0112499,8,nm0005659,cinematographer,director of photography,\N
+962587,tt0112499,9,nm0511219,editor,\N,\N
+968422,tt0113198,10,nm0233233,writer,additional written material,\N
+968423,tt0113198,1,nm0267724,actor,\N,"[""Goofy""]"
+968424,tt0113198,2,nm0005189,actor,\N,"[""Max Goof""]"
+968425,tt0113198,3,nm0191906,actor,\N,"[""Pete""]"
+968426,tt0113198,4,nm0005192,actress,\N,"[""Roxanne""]"
+968427,tt0113198,5,nm0510674,director,\N,\N
+968428,tt0113198,6,nm0536440,writer,story by,\N
+968429,tt0113198,7,nm0558533,writer,screenplay by,\N
+968430,tt0113198,8,nm0683724,writer,screenplay by,\N
+968431,tt0113198,9,nm0035664,writer,additional written material,\N
+973713,tt0113862,10,nm0004383,composer,\N,\N
+973714,tt0113862,1,nm0000377,actor,\N,"[""Glenn Holland""]"
+973715,tt0113862,2,nm0000444,actress,\N,"[""Iris Holland""]"
+973716,tt0113862,3,nm0858988,actor,\N,"[""Bill Meister""]"
+973717,tt0113862,4,nm0001156,actress,\N,"[""Principal Jacobs""]"
+973718,tt0113862,5,nm0378893,director,\N,\N
+973719,tt0113862,6,nm0242059,writer,written by,\N
+973720,tt0113862,7,nm0181202,producer,producer,\N
+973721,tt0113862,8,nm0276059,producer,producer,\N
+973722,tt0113862,9,nm0634445,producer,producer,\N
+975289,tt0114048,10,nm0618558,producer,producer,\N
+975290,tt0114048,1,nm0000418,actor,\N,"[""Capt. Sam Cahill""]"
+975291,tt0114048,2,nm0000501,actor,\N,"[""Capt. T.C. Doyle""]"
+975292,tt0114048,3,nm0001459,actor,\N,"[""Lt. David Poole""]"
+975293,tt0114048,4,nm0234791,actor,\N,"[""SP4 Harvey (H.A.) Ashford""]"
+975294,tt0114048,5,nm0934578,director,\N,\N
+975295,tt0114048,6,nm0606611,writer,story,\N
+975296,tt0114048,7,nm0704164,writer,written by,\N
+975297,tt0114048,8,nm0467942,writer,written by,\N
+975298,tt0114048,9,nm0534574,producer,producer,\N
+980743,tt0114709,10,nm0169505,writer,screenplay by,\N
+980744,tt0114709,1,nm0000158,actor,\N,"[""Woody""]"
+980745,tt0114709,2,nm0000741,actor,\N,"[""Buzz Lightyear""]"
+980746,tt0114709,3,nm0725543,actor,\N,"[""Mr. Potato Head""]"
+980747,tt0114709,4,nm0001815,actor,\N,"[""Slinky Dog""]"
+980748,tt0114709,5,nm0005124,director,\N,\N
+980749,tt0114709,6,nm0230032,writer,original story by,\N
+980750,tt0114709,7,nm0004056,writer,original story by,\N
+980751,tt0114709,8,nm0710020,writer,original story by,\N
+980752,tt0114709,9,nm0923736,writer,screenplay by,\N
+982469,tt0114924,10,nm0006055,composer,\N,\N
+982470,tt0114924,1,nm0000113,actress,\N,"[""Lucy""]"
+982471,tt0114924,2,nm0000597,actor,\N,"[""Jack""]"
+982472,tt0114924,3,nm0001251,actor,\N,"[""Peter""]"
+982473,tt0114924,4,nm0001967,actor,\N,"[""Ox""]"
+982474,tt0114924,5,nm0005509,director,\N,\N
+982475,tt0114924,6,nm0838015,writer,written by,\N
+982476,tt0114924,7,nm0495863,writer,written by,\N
+982477,tt0114924,8,nm0083696,producer,producer,\N
+982478,tt0114924,9,nm0005387,producer,producer,\N
+997138,tt0116669,10,nm0004383,composer,\N,\N
+997139,tt0116669,1,nm0000245,actor,\N,"[""Jack Powell""]"
+997140,tt0116669,2,nm0000178,actress,\N,"[""Karen Powell""]"
+997141,tt0116669,3,nm0450116,actor,\N,"[""Brian Powell""]"
+997142,tt0116669,4,nm0000182,actress,\N,"[""Miss Marquez""]"
+997143,tt0116669,5,nm0000338,director,\N,\N
+997144,tt0116669,6,nm0218621,writer,written by,\N
+997145,tt0116669,7,nm0618800,writer,written by,\N
+997146,tt0116669,8,nm0297209,producer,producer,\N
+997147,tt0116669,9,nm0582338,producer,producer,\N
+1013482,tt0118617,10,nm0925276,writer,screenplay by,\N
+1013483,tt0118617,1,nm0000212,actress,\N,"[""Anastasia""]"
+1013484,tt0118617,2,nm0000131,actor,\N,"[""Dimitri""]"
+1013485,tt0118617,3,nm0000502,actor,\N,"[""Rasputin""]"
+1013486,tt0118617,4,nm0001288,actor,\N,"[""Vladimir""]"
+1013487,tt0118617,5,nm0089940,director,\N,\N
+1013488,tt0118617,6,nm0325776,director,\N,\N
+1013489,tt0118617,7,nm0310319,writer,screenplay by,\N
+1013490,tt0118617,8,nm0333949,writer,screenplay by,\N
+1013491,tt0118617,9,nm0879318,writer,screenplay by,\N
+1023068,tt0119718,10,nm0155598,cinematographer,director of photography,\N
+1023069,tt0119718,1,nm0000558,actor,\N,"[""Mr. Magoo""]"
+1023070,tt0119718,2,nm0001488,actress,\N,"[""Luanne""]"
+1023071,tt0119718,3,nm0444832,actor,\N,"[""Waldo""]"
+1023072,tt0119718,4,nm0157915,actor,\N,"[""Bob Morgan""]"
+1023073,tt0119718,5,nm0867262,director,\N,\N
+1023074,tt0119718,6,nm0698493,writer,written by,\N
+1023075,tt0119718,7,nm0792624,writer,written by,\N
+1023076,tt0119718,8,nm0617147,producer,producer,\N
+1023077,tt0119718,9,nm0851699,composer,\N,\N
+1028759,tt0120363,10,nm0398763,writer,screenplay by,\N
+1028760,tt0120363,1,nm0000158,actor,\N,"[""Woody""]"
+1028761,tt0120363,2,nm0000741,actor,\N,"[""Buzz Lightyear""]"
+1028762,tt0120363,3,nm0000349,actress,\N,"[""Jessie""]"
+1028763,tt0120363,4,nm0001288,actor,\N,"[""Prospector""]"
+1028764,tt0120363,5,nm0005124,director,\N,\N
+1028765,tt0120363,6,nm0105169,director,co-director,\N
+1028766,tt0120363,7,nm0881279,director,co-director,\N
+1028767,tt0120363,8,nm0230032,writer,original story by,\N
+1028768,tt0120363,9,nm0004056,writer,original story by,\N
+1031034,tt0120631,10,nm0872058,producer,producer,\N
+1031035,tt0120631,1,nm0000106,actress,\N,"[""Danielle""]"
+1031036,tt0120631,2,nm0001378,actress,\N,"[""Rodmilla""]"
+1031037,tt0120631,3,nm0779084,actor,\N,"[""Prince Henry""]"
+1031038,tt0120631,4,nm0324009,actor,\N,"[""Leonardo""]"
+1031039,tt0120631,5,nm0855035,director,\N,\N
+1031040,tt0120631,6,nm0335666,writer,screenplay,\N
+1031041,tt0120631,7,nm0663002,writer,screenplay,\N
+1031042,tt0120631,8,nm0674518,writer,\N,\N
+1031043,tt0120631,9,nm0814969,producer,producer,\N
+1091040,tt0128890,10,nm0838588,actress,\N,"[""Tessa James"",""Vanessa James"",""Additional Voices""]"
+1091041,tt0128890,1,nm0001849,actress,\N,"[""Pepper Ann"",""Pepper Ann Pearson"",""Additional Voices""]"
+1091042,tt0128890,2,nm0177528,actor,\N,"[""Milo Kamalani"",""Milo"",""Baron Von Gus""]"
+1091043,tt0128890,3,nm0934589,actress,\N,"[""Mom"",""Lydia Pearson"",""Sherrie Spleen""]"
+1091044,tt0128890,4,nm0507051,actress,\N,"[""Nicky Little"",""Nicky""]"
+1091045,tt0128890,5,nm0741697,writer,created by,\N
+1091046,tt0128890,6,nm0071818,actor,\N,"[""Additional Voices"",""Dieter Liederhosen"",""Craig Bean""]"
+1091047,tt0128890,7,nm0781899,actress,\N,"[""Moose Pearson"",""Moose"",""Additional Voices""]"
+1091048,tt0128890,8,nm0815718,actress,\N,"[""Cissy Rooney"",""Additional Voices"",""Cissy""]"
+1091049,tt0128890,9,nm0001883,actress,\N,"[""Trinket St. Blaire"",""Trinket St. Blair"",""Trinket""]"
+1101187,tt0130623,10,nm0338396,writer,based on an earlier screenplay by,\N
+1101188,tt0130623,1,nm0000665,actor,\N,"[""Aladar""]"
+1101189,tt0130623,2,nm0000523,actress,\N,"[""Neera""]"
+1101190,tt0130623,3,nm0942787,actor,\N,"[""Kron""]"
+1101191,tt0130623,4,nm0005569,actress,\N,"[""Plio""]"
+1101192,tt0130623,5,nm0500343,director,\N,\N
+1101193,tt0130623,6,nm0957798,director,\N,\N
+1101194,tt0130623,7,nm0258059,writer,story,\N
+1101195,tt0130623,8,nm0365666,writer,story,\N
+1101196,tt0130623,9,nm0414608,writer,story,\N
+1210440,tt0147800,10,nm0006099,composer,\N,\N
+1210441,tt0147800,1,nm0005132,actor,\N,"[""Patrick Verona""]"
+1210442,tt0147800,2,nm0005466,actress,\N,"[""Kat Stratford""]"
+1210443,tt0147800,3,nm0330687,actor,\N,"[""Cameron James""]"
+1210444,tt0147800,4,nm0646351,actress,\N,"[""Bianca Stratford""]"
+1210445,tt0147800,5,nm0432627,director,\N,\N
+1210446,tt0147800,6,nm0527581,writer,written by,\N
+1210447,tt0147800,7,nm0809006,writer,written by,\N
+1210448,tt0147800,8,nm0000636,writer,"play ""The Taming of the Shrew""",\N
+1210449,tt0147800,9,nm0493662,producer,producer,\N
+1638788,tt0211181,10,nm0925276,writer,screenplay,\N
+1638789,tt0211181,1,nm0000335,actress,\N,"[""Cruella de Vil""]"
+1638790,tt0211181,2,nm0000367,actor,\N,"[""Jean-Pierre Le Pelt""]"
+1638791,tt0211181,3,nm0344435,actor,\N,"[""Kevin Sheperd""]"
+1638792,tt0211181,4,nm0262521,actress,\N,"[""Chloe Simon""]"
+1638793,tt0211181,5,nm0510674,director,\N,\N
+1638794,tt0211181,6,nm0807977,writer,"novel ""The One Hundred and One Dalmatians""",\N
+1638795,tt0211181,7,nm0118649,writer,story,\N
+1638796,tt0211181,8,nm0716391,writer,story,\N
+1638797,tt0211181,9,nm0879318,writer,screenplay,\N
+1751951,tt0230011,10,nm0951392,writer,story by,\N
+1751952,tt0230011,1,nm0000150,actor,\N,"[""Milo""]"
+1751953,tt0230011,2,nm0001815,actor,\N,"[""Cookie""]"
+1751954,tt0230011,3,nm0123553,actor,\N,"[""Moliere""]"
+1751955,tt0230011,4,nm0160004,actress,\N,"[""Helga""]"
+1751956,tt0230011,5,nm0873779,director,\N,\N
+1751957,tt0230011,6,nm0936374,director,\N,\N
+1751958,tt0230011,7,nm0614742,writer,screenplay by,\N
+1751959,tt0230011,8,nm0923736,writer,story by,\N
+1751960,tt0230011,9,nm0007233,writer,story by,\N
+1861226,tt0247638,10,nm0410773,producer,producer,\N
+1861227,tt0247638,1,nm0000267,actress,\N,"[""Queen Clarisse Renaldi""]"
+1861228,tt0247638,2,nm0004266,actress,\N,"[""Mia Thermopolis""]"
+1861229,tt0247638,3,nm0001185,actor,\N,"[""Joe""]"
+1861230,tt0247638,4,nm0000525,actress,\N,"[""Lilly Moscovitz""]"
+1861231,tt0247638,5,nm0005190,director,\N,\N
+1861232,tt0247638,6,nm0127690,writer,novel,\N
+1861233,tt0247638,7,nm0920859,writer,screenplay,\N
+1861234,tt0247638,8,nm0153744,producer,producer,\N
+1861235,tt0247638,9,nm0001365,producer,producer,\N
+1873953,tt0249677,10,nm0462164,writer,additional screenplay material by,\N
+1873954,tt0249677,1,nm0937930,actor,\N,"[""Scamp""]"
+1873955,tt0249677,2,nm0000192,actress,\N,"[""Angel""]"
+1873956,tt0249677,3,nm0001590,actor,\N,"[""Buster""]"
+1873957,tt0249677,4,nm0071818,actor,\N,"[""Tramp"",""Jock"",""Trusty""]"
+1873958,tt0249677,5,nm0740311,director,\N,\N
+1873959,tt0249677,6,nm0746013,director,co-director,\N
+1873960,tt0249677,7,nm0609600,writer,screenplay by,\N
+1873961,tt0249677,8,nm0744793,writer,screenplay by,\N
+1873962,tt0249677,9,nm0737241,writer,additional screenplay material by,\N
+1977702,tt0265632,10,nm0842858,producer,producer,\N
+1977703,tt0265632,1,nm0492620,actor,\N,"[""Tj""]"
+1977704,tt0265632,2,nm0172636,actor,\N,"[""Vince""]"
+1977705,tt0265632,3,nm0204771,actor,\N,"[""Mikey""]"
+1977706,tt0265632,4,nm0424534,actress,\N,"[""Gretchen""]"
+1977707,tt0265632,5,nm0790746,director,\N,\N
+1977708,tt0265632,6,nm0314480,writer,television series Recess,\N
+1977709,tt0265632,7,nm0030651,writer,television series Recess,\N
+1977710,tt0265632,8,nm0338537,writer,story,\N
+1977711,tt0265632,9,nm0840699,producer,producer,\N
+2012734,tt0271271,10,nm0551108,composer,\N,\N
+2012735,tt0271271,1,nm0832653,actress,\N,"[""Zenon Kar""]"
+2012736,tt0271271,2,nm0799895,actress,\N,"[""Nebula Wade""]"
+2012737,tt0271271,3,nm0540767,actress,\N,"[""Margie Hammond""]"
+2012738,tt0271271,4,nm0103731,actress,\N,"[""Astrid Kar""]"
+2012739,tt0271271,5,nm0182873,director,\N,\N
+2012740,tt0271271,6,nm0755551,writer,"book ""Zenon, Girl of the 21st Century""",\N
+2012741,tt0271271,7,nm0093098,writer,"book ""Zenon, Girl of the 21st Century""",\N
+2012742,tt0271271,8,nm0471217,writer,teleplay,\N
+2012743,tt0271271,9,nm0349720,producer,producer,\N
+2030191,tt0273799,10,nm0440344,producer,producer,\N
+2030192,tt0273799,1,nm0513281,actor,\N,"[""Max Keeble""]"
+2030193,tt0273799,2,nm0588777,actor,\N,"[""Principal Elliot T. Jindraike""]"
+2030194,tt0273799,3,nm0005085,actor,\N,"[""Evil Ice Cream Man""]"
+2030195,tt0273799,4,nm0340720,actress,\N,"[""Megan""]"
+2030196,tt0273799,5,nm0384722,director,\N,\N
+2030197,tt0273799,6,nm1075184,writer,story,\N
+2030198,tt0273799,7,nm0077080,writer,story,\N
+2030199,tt0273799,8,nm0085933,writer,story,\N
+2030200,tt0273799,9,nm0007079,writer,story,\N
+2030450,tt0273842,10,nm0272857,cinematographer,\N,\N
+2030451,tt0273842,1,nm0042316,actress,\N,"[""Andrea 'Andi' Carson""]"
+2030452,tt0273842,2,nm0639871,actor,\N,"[""Andrew Carson""]"
+2030453,tt0273842,3,nm0809720,actor,\N,"[""Dean Talon""]"
+2030454,tt0273842,4,nm0401799,actress,\N,"[""Geneva Carson""]"
+2030455,tt0273842,5,nm0102434,director,\N,\N
+2030456,tt0273842,6,nm0460458,writer,written by,\N
+2030457,tt0273842,7,nm0805957,writer,written by,\N
+2030458,tt0273842,8,nm0673944,producer,producer,\N
+2030459,tt0273842,9,nm0103593,composer,\N,\N
+2092015,tt0283084,10,nm0823661,producer,producer,\N
+2092016,tt0283084,1,nm0088127,actress,\N,"[""Winnie Foster""]"
+2092017,tt0283084,2,nm0005044,actor,\N,"[""Jesse Tuck""]"
+2092018,tt0283084,3,nm0000651,actress,\N,"[""Mae Tuck""]"
+2092019,tt0283084,4,nm0000458,actor,\N,"[""Angus Tuck""]"
+2092020,tt0283084,5,nm0751221,director,\N,\N
+2092021,tt0283084,6,nm0044810,writer,novel,\N
+2092022,tt0283084,7,nm0509340,writer,screenplay,\N
+2092023,tt0283084,8,nm0366337,writer,screenplay,\N
+2092024,tt0283084,9,nm0008953,producer,producer,\N
+2169955,tt0294425,10,nm0125809,cinematographer,director of photography,\N
+2169956,tt0294425,1,nm0240381,actress,\N,"[""Kelly""]"
+2169957,tt0294425,2,nm0005579,actress,\N,"[""Jennifer""]"
+2169958,tt0294425,3,nm0170550,actor,\N,"[""Sir""]"
+2169959,tt0294425,4,nm0039162,actor,\N,"[""Brad""]"
+2169960,tt0294425,5,nm0789834,director,\N,\N
+2169961,tt0294425,6,nm0661275,writer,written by,\N
+2169962,tt0294425,7,nm1047701,writer,written by,\N
+2169963,tt0294425,8,nm0480804,producer,producer,\N
+2169964,tt0294425,9,nm0457598,composer,\N,\N
+2182007,tt0296251,10,nm5426384,cinematographer,director of photography,\N
+2182008,tt0296251,1,nm0117070,actress,\N,"[""Tru""]"
+2182009,tt0296251,2,nm0479471,actor,\N,"[""Eddie""]"
+2182010,tt0296251,3,nm0001858,actress,\N,"[""Ginny""]"
+2182011,tt0296251,4,nm0570306,actor,\N,"[""Bob""]"
+2182012,tt0296251,5,nm0388505,director,\N,\N
+2182013,tt0296251,6,nm1070424,writer,novel,\N
+2182014,tt0296251,7,nm0471217,writer,teleplay,\N
+2182015,tt0296251,8,nm0562025,producer,producer,\N
+2182016,tt0296251,9,nm0006025,composer,\N,\N
+2237387,tt0304669,10,nm0833828,writer,screenplay,\N
+2237388,tt0304669,1,nm0000741,actor,\N,"[""Scott Calvin"",""Santa"",""Toy Santa""]"
+2237389,tt0304669,2,nm0107748,actor,\N,"[""Curtis""]"
+2237390,tt0304669,3,nm0593310,actress,\N,"[""Carol""]"
+2237391,tt0304669,4,nm0005156,actor,\N,"[""Charlie Calvin""]"
+2237392,tt0304669,5,nm0501185,director,\N,\N
+2237393,tt0304669,6,nm0722610,writer,screenplay,\N
+2237394,tt0304669,7,nm0666791,writer,screenplay,\N
+2237395,tt0304669,8,nm0202425,writer,screenplay,\N
+2237396,tt0304669,9,nm0214036,writer,screenplay,\N
+2600485,tt0361089,10,nm0930964,producer,producer,\N
+2600486,tt0361089,1,nm0000191,actor,\N,"[""Valiant""]"
+2600487,tt0361089,2,nm0315041,actor,\N,"[""Bugsy""]"
+2600488,tt0361089,3,nm0000347,actor,\N,"[""Von Talon""]"
+2600489,tt0361089,4,nm0000980,actor,\N,"[""Sergeant""]"
+2600490,tt0361089,5,nm1369705,director,\N,\N
+2600491,tt0361089,6,nm1498344,writer,story,\N
+2600492,tt0361089,7,nm0441750,writer,screenplay,\N
+2600493,tt0361089,8,nm1276664,writer,screenplay,\N
+2600494,tt0361089,9,nm0076791,writer,\N,\N
+2616899,tt0363771,10,nm0425741,producer,producer,\N
+2616900,tt0363771,1,nm0842770,actress,\N,"[""White Witch""]"
+2616901,tt0363771,2,nm1670137,actress,\N,"[""Lucy Pevensie""]"
+2616902,tt0363771,3,nm0608440,actor,\N,"[""Peter Pevensie""]"
+2616903,tt0363771,4,nm1342727,actor,\N,"[""Edmund Pevensie""]"
+2616904,tt0363771,5,nm0011470,director,\N,\N
+2616905,tt0363771,6,nm0668754,writer,screenplay,\N
+2616906,tt0363771,7,nm1321655,writer,screenplay,\N
+2616907,tt0363771,8,nm1321656,writer,screenplay,\N
+2616908,tt0363771,9,nm0507000,writer,book,\N
+2649200,tt0368891,10,nm1469874,writer,story,\N
+2649201,tt0368891,1,nm0000115,actor,\N,"[""Benjamin Franklin Gates""]"
+2649202,tt0368891,2,nm1208167,actress,\N,"[""Abigail Chase""]"
+2649203,tt0368891,3,nm0058581,actor,\N,"[""Riley Poole""]"
+2649204,tt0368891,4,nm0000293,actor,\N,"[""Ian Howe""]"
+2649205,tt0368891,5,nm0005509,director,\N,\N
+2649206,tt0368891,6,nm0467942,writer,screenplay,\N
+2649207,tt0368891,7,nm0926727,writer,screenplay,\N
+2649208,tt0368891,8,nm0926729,writer,screenplay,\N
+2649209,tt0368891,9,nm0043233,writer,story,\N
+2706739,tt0377770,1,nm0527741,actress,\N,"[""Singing""]"
+2706740,tt0377770,2,nm0261170,actress,\N,"[""Rebecca Drummond""]"
+2706741,tt0377770,3,nm0597963,director,\N,\N
+2706742,tt0377770,4,nm0198557,writer,story,\N
+2706743,tt0377770,5,nm0376245,writer,story,\N
+2706744,tt0377770,6,nm0089118,producer,producer,\N
+2706745,tt0377770,7,nm0006193,composer,\N,\N
+2706746,tt0377770,8,nm0024305,editor,\N,\N
+2706747,tt0377770,9,nm0288548,production_designer,\N,\N
+2742030,tt0382932,10,nm0677037,writer,additional story material,\N
+2742031,tt0382932,1,nm0004951,actor,\N,"[""Gusteau""]"
+2742032,tt0382932,2,nm0738918,actor,\N,"[""Linguini""]"
+2742033,tt0382932,3,nm0652663,actor,\N,"[""Remy""]"
+2742034,tt0382932,4,nm0000453,actor,\N,"[""Skinner""]"
+2742035,tt0382932,5,nm0083348,director,\N,\N
+2742036,tt0382932,6,nm0684342,director,co-director,\N
+2742037,tt0382932,7,nm0135296,writer,original story by,\N
+2742038,tt0382932,8,nm1486235,writer,additional story material,\N
+2742039,tt0382932,9,nm1271884,writer,additional story material,\N
+2861970,tt0401398,10,nm0227540,writer,characters,\N
+2861971,tt0401398,1,nm0911320,actor,\N,"[""Kronk""]"
+2861972,tt0401398,2,nm0001808,actress,\N,"[""Ms. Birdwell""]"
+2861973,tt0401398,3,nm0457755,actress,\N,"[""Yzma""]"
+2861974,tt0401398,4,nm0005450,actor,\N,"[""Kuzco""]"
+2861975,tt0401398,5,nm1291225,director,\N,\N
+2861976,tt0401398,6,nm1074748,director,\N,\N
+2861977,tt0401398,7,nm1902232,writer,story by,\N
+2861978,tt0401398,8,nm1713427,writer,story by,\N
+2861979,tt0401398,9,nm0737241,writer,story by,\N
+2922467,tt0410696,10,nm0279225,producer,producer,\N
+2922468,tt0410696,1,nm1263939,actress,\N,"[""Brittany Aarons""]"
+2922469,tt0410696,2,nm0814259,actress,\N,"[""Natasha Kwon-Schwartz""]"
+2922470,tt0410696,3,nm1653610,actress,\N,"[""Kaylee Holland""]"
+2922471,tt0410696,4,nm1655778,actress,\N,"[""Ashley Simon""]"
+2922472,tt0410696,5,nm0390822,director,\N,\N
+2922473,tt0410696,6,nm0257177,writer,story,\N
+2922474,tt0410696,7,nm0257171,writer,story,\N
+2922475,tt0410696,8,nm0073504,writer,teleplay,\N
+2922476,tt0410696,9,nm0037197,producer,producer,\N
+3102190,tt0436339,10,nm0704909,composer,\N,\N
+3102191,tt0436339,1,nm0004715,actor,\N,"[""Kip Killian""]"
+3102192,tt0436339,2,nm0004851,actress,\N,"[""Juarez""]"
+3102193,tt0436339,3,nm0302108,actor,\N,"[""Ben""]"
+3102194,tt0436339,4,nm0631490,actor,\N,"[""Saber""]"
+3102195,tt0436339,5,nm0947087,director,\N,\N
+3102196,tt0436339,6,nm0926727,writer,screenplay,\N
+3102197,tt0436339,7,nm0926729,writer,screenplay,\N
+3102198,tt0436339,8,nm0416408,writer,story,\N
+3102199,tt0436339,9,nm0000988,producer,producer,\N
+3213372,tt0452598,10,nm0506613,producer,producer,\N
+3213373,tt0452598,1,nm0000188,actor,\N,"[""Tom Baker""]"
+3213374,tt0452598,2,nm0001372,actress,\N,"[""Kate Baker""]"
+3213375,tt0452598,3,nm0240381,actress,\N,"[""Lorraine Baker""]"
+3213376,tt0452598,4,nm0506405,actor,\N,"[""Jimmy Murtaugh""]"
+3213377,tt0452598,5,nm0788202,director,\N,\N
+3213378,tt0452598,6,nm0363958,writer,written by,\N
+3213379,tt0452598,7,nm0864471,writer,characters,\N
+3213380,tt0452598,8,nm0318326,writer,"novel ""Cheaper by the Dozen""",\N
+3213381,tt0452598,9,nm0136950,writer,"novel ""Cheaper by the Dozen""",\N
+3250608,tt0457993,10,nm0153724,producer,producer,\N
+3250609,tt0457993,1,nm0761498,actor,\N,"[""Stitch""]"
+3250610,tt0457993,2,nm0266824,actress,\N,"[""Lilo Pelekai""]"
+3250611,tt0457993,3,nm0000119,actress,\N,"[""Nani""]"
+3250612,tt0457993,4,nm0001773,actor,\N,"[""Dr. Jumba Jookiba""]"
+3250613,tt0457993,5,nm1713427,director,\N,\N
+3250614,tt0457993,6,nm1902232,director,\N,\N
+3250615,tt0457993,7,nm0349966,writer,screenplay by,\N
+3250616,tt0457993,8,nm0432612,writer,screenplay by,\N
+3250617,tt0457993,9,nm0524710,writer,\N,\N
+3252608,tt0458290,10,nm0845941,actress,\N,"[""Padm茅 Amidala"",""Betty Droid"",""Karis""]"
+3252609,tt0458290,1,nm0437454,actor,\N,"[""Narrator"",""Yoda"",""Admiral Yularen""]"
+3252610,tt0458290,2,nm0048389,actor,\N,"[""Clone Troopers"",""Captain Rex"",""Commander Cody""]"
+3252611,tt0458290,3,nm1782667,actor,\N,"[""Anakin Skywalker"",""Lom Pyke"",""Almec's Scout""]"
+3252612,tt0458290,4,nm0852517,actor,\N,"[""Obi-Wan Kenobi"",""Plo Koon"",""Rako Hardeen""]"
+3252613,tt0458290,5,nm0000184,writer,created by,\N
+3252614,tt0458290,6,nm0237065,actress,\N,"[""Ahsoka Tano"",""K2-B4"",""Ahsoka""]"
+3252615,tt0458290,7,nm0003214,actor,\N,"[""Battle Droids"",""General Grievous"",""Wat Tambor""]"
+3252616,tt0458290,8,nm0123553,actor,\N,"[""Count Dooku"",""Cad Bane"",""Nix Card""]"
+3252617,tt0458290,9,nm0141333,actor,\N,"[""Mace Windu"",""Council Member"",""Cultist""]"
+3392440,tt0479113,1,nm0028764,director,\N,\N
+3392441,tt0479113,2,nm1285750,director,\N,\N
+3392442,tt0479113,3,nm1575873,producer,producer,\N
+3392443,tt0479113,4,nm0315974,composer,\N,\N
+3392444,tt0479113,5,nm0003479,editor,\N,\N
+3392445,tt0479113,6,nm0215455,production_designer,\N,\N
+3438947,tt0486761,10,nm0594587,editor,\N,\N
+3438948,tt0486761,1,nm0153738,actress,\N,"[""Lilo""]"
+3438949,tt0486761,2,nm0761498,actor,\N,"[""Stitch"",""Leroy""]"
+3438950,tt0486761,3,nm0001773,actor,\N,"[""Dr. Jumba""]"
+3438951,tt0486761,4,nm0567852,actor,\N,"[""Pleakley""]"
+3438952,tt0486761,5,nm0186038,director,\N,\N
+3438953,tt0486761,6,nm0304432,director,\N,\N
+3438954,tt0486761,7,nm0934897,writer,written by,\N
+3438955,tt0486761,8,nm0213450,writer,characters,\N
+3438956,tt0486761,9,nm0002370,composer,\N,\N
+6323894,tt0852863,10,nm0310929,actor,\N,"[""Buford Van Stomm"",""Boofgard"",""Buford van Stomm""]"
+6323895,tt0852863,1,nm1605108,actor,\N,"[""Phineas Flynn"",""Dr. Phineastein"",""Multiman""]"
+6323896,tt0852863,2,nm1032473,actor,\N,"[""Ferb Fletcher"",""Ferbgore"",""Ferbguy""]"
+6323897,tt0852863,3,nm0693933,actor,\N,"[""Dr. Heinz Doofenshmirtz"",""Additional Voices"",""Self""]"
+6323898,tt0852863,4,nm0864308,actress,\N,"[""Candace Flynn"",""Can-tok"",""Constance""]"
+6323899,tt0852863,5,nm0550578,writer,creator,\N
+6323900,tt0852863,6,nm0005352,actress,\N,"[""Linda Flynn-Fletcher"",""Grandma Betty-Jo Flynn"",""Linda Flynn""]"
+6323901,tt0852863,7,nm0048389,actor,\N,"[""Perry the Platypus"",""Additional Voices"",""Dr. Diminutive""]"
+6323902,tt0852863,8,nm1351987,actress,\N,"[""Isabella Garcia-Shapiro"",""Jenny Brown"",""Additional Voices""]"
+6323903,tt0852863,9,nm0997689,actor,\N,"[""Baljeet Tjinder"",""Baljeetolas of the Nerding Realm"",""Baljug""]"
+6454864,tt0870154,10,nm0326247,writer,screen story by,\N
+6454865,tt0870154,1,nm0425005,actor,\N,"[""Frank Wolff""]"
+6454866,tt0870154,2,nm1289434,actress,\N,"[""Lily Houghton""]"
+6454867,tt0870154,3,nm1183149,actor,\N,"[""Aguirre""]"
+6454868,tt0870154,4,nm3099754,actor,\N,"[""MacGregor Houghton""]"
+6454869,tt0870154,5,nm1429471,director,\N,\N
+6454870,tt0870154,6,nm0338169,writer,screenplay by,\N
+6454871,tt0870154,7,nm0275629,writer,screenplay by,\N
+6454872,tt0870154,8,nm0720135,writer,screenplay by,\N
+6454873,tt0870154,9,nm0636358,writer,screen story by,\N
+7005542,tt0945571,1,nm0941125,archive_footage,\N,"[""Ernie""]"
+7005543,tt0945571,2,nm0003977,director,\N,\N
+7005544,tt0945571,3,nm0682066,writer,story,\N
+7005545,tt0945571,4,nm0102691,writer,story,\N
+7005546,tt0945571,5,nm0764780,producer,producer,\N
+7005547,tt0945571,6,nm0315974,composer,\N,\N
+7005548,tt0945571,7,nm0003479,editor,\N,\N
+7005549,tt0945571,8,nm0391961,production_designer,\N,\N
+7054422,tt0952640,10,nm0501999,composer,\N,\N
+7054423,tt0952640,1,nm0005134,actor,\N,"[""Dave""]"
+7054424,tt0952640,2,nm0046559,actor,\N,"[""Alvin""]"
+7054425,tt0952640,3,nm0439739,actress,\N,"[""Theodore""]"
+7054426,tt0952640,4,nm0189144,actor,\N,"[""Ian""]"
+7054427,tt0952640,5,nm0384722,director,\N,\N
+7054428,tt0952640,6,nm0900140,writer,screenplay,\N
+7054429,tt0952640,7,nm0574509,writer,screenplay,\N
+7054430,tt0952640,8,nm0899531,writer,screenplay,\N
+7054431,tt0952640,9,nm0046564,writer,characters Alvin and the Chipmunks,\N
+7123603,tt0962726,10,nm0033096,cinematographer,director of photography,\N
+7123604,tt0962726,1,nm1374980,actor,\N,"[""Troy Bolton""]"
+7123605,tt0962726,2,nm1227814,actress,\N,"[""Gabriella Montez""]"
+7123606,tt0962726,3,nm0864308,actress,\N,"[""Sharpay Evans""]"
+7123607,tt0962726,4,nm1727317,actor,\N,"[""Ryan Evans""]"
+7123608,tt0962726,5,nm0650905,director,\N,\N
+7123609,tt0962726,6,nm0058302,writer,written by,\N
+7123610,tt0962726,7,nm0096115,producer,producer,\N
+7123611,tt0962726,8,nm0742492,producer,producer,\N
+7123612,tt0962726,9,nm0492714,composer,\N,\N
+7358636,tt0997047,10,nm0348151,producer,producer,\N
+7358637,tt0997047,1,nm0712368,actress,\N,"[""Melanie""]"
+7358638,tt0997047,2,nm0001454,actor,\N,"[""James""]"
+7358639,tt0997047,3,nm0005552,actress,\N,"[""Michelle""]"
+7358640,tt0997047,4,nm0480775,actor,\N,"[""Judge""]"
+7358641,tt0997047,5,nm0474955,director,\N,\N
+7358642,tt0997047,6,nm0595088,writer,written by,\N
+7358643,tt0997047,7,nm0933144,writer,written by,\N
+7358644,tt0997047,8,nm0666791,writer,written by,\N
+7358645,tt0997047,9,nm0202425,writer,written by,\N
+7837738,tt1013542,10,nm0004475,producer,producer,\N
+7837739,tt1013542,1,nm1169619,actress,\N,"[""Chanel""]"
+7837745,tt1013542,2,nm0117009,actress,\N,"[""Dorinda""]"
+7837746,tt1013542,3,nm1170124,actress,\N,"[""Aqua""]"
+7837749,tt1013542,4,nm0786022,actor,\N,"[""Kamal Uncle""]"
+7837750,tt1013542,5,nm0388505,director,\N,\N
+7837757,tt1013542,6,nm0073504,writer,story by,\N
+7837758,tt1013542,7,nm0304091,writer,teleplay by,\N
+7837759,tt1013542,8,nm1339000,writer,series of books,\N
+7837760,tt1013542,9,nm0806473,writer,teleplay by,\N
+9263684,tt1053810,10,nm1651942,producer,producer,\N
+9263685,tt1053810,1,nm0005562,actor,\N,"[""Kenny Bostick""]"
+9263686,tt1053810,2,nm0085312,actor,\N,"[""Brad Harris""]"
+9263687,tt1053810,3,nm0000188,actor,\N,"[""Stu Preissler""]"
+9263696,tt1053810,4,nm0000092,actor,\N,"[""Narrator""]"
+9263697,tt1053810,5,nm0291205,director,\N,\N
+9263698,tt1053810,6,nm0291442,writer,screenplay,\N
+9263699,tt1053810,7,nm2696996,writer,"book ""The Big Year: A Tale of Man, Nature, and Fowl Obsession""",\N
+9263708,tt1053810,8,nm0180366,producer,producer,\N
+9263709,tt1053810,9,nm0000436,producer,producer,\N
+10109535,tt1078912,10,nm0006293,composer,\N,\N
+10109536,tt1078912,1,nm0001774,actor,\N,"[""Larry Daley""]"
+10109538,tt1078912,2,nm0005562,actor,\N,"[""Jedediah""]"
+10109539,tt1078912,3,nm0010736,actress,\N,"[""Amelia Earhart""]"
+10109545,tt1078912,4,nm0000279,actor,\N,"[""Kahmunrah"",""The Thinker"",""Abe Lincoln""]"
+10109546,tt1078912,5,nm0506613,director,\N,\N
+10109550,tt1078912,6,nm0304830,writer,written by,\N
+10109551,tt1078912,7,nm0502073,writer,written by,\N
+10109557,tt1078912,8,nm0055431,producer,producer,\N
+10109558,tt1078912,9,nm0001060,producer,producer,\N
+10487238,tt1090750,10,nm0831395,editor,\N,\N
+10487239,tt1090750,1,nm0652089,actress,\N,"[""Melissa Morris""]"
+10487245,tt1090750,2,nm1273708,actor,\N,"[""Wheeze""]"
+10487246,tt1090750,3,nm1489118,actor,\N,"[""Merv""]"
+10487252,tt1090750,4,nm1947831,actor,\N,"[""Trip Zoome""]"
+10487253,tt1090750,5,nm0388505,director,\N,\N
+10487259,tt1090750,6,nm1115263,writer,written by,\N
+10487260,tt1090750,7,nm0769913,producer,producer,\N
+10487266,tt1090750,8,nm1265485,composer,\N,\N
+10487267,tt1090750,9,nm0538610,cinematographer,director of photography,\N
+11712587,tt1127884,10,nm0025465,cinematographer,director of photography,\N
+11712588,tt1127884,1,nm1415323,self,\N,"[""Self"",""Hannah Montana""]"
+11712594,tt1127884,2,nm2635467,self,\N,"[""Themselves - Special Guest""]"
+11712595,tt1127884,3,nm0650905,self,\N,"[""Self - Tour Director""]"
+11712602,tt1127884,4,nm0004854,self,\N,"[""Self""]"
+11712603,tt1127884,5,nm0376712,director,\N,\N
+11712610,tt1127884,6,nm0689954,writer,character based on the series created by,\N
+11712611,tt1127884,7,nm0180902,writer,character based on the series created by,\N
+11712617,tt1127884,8,nm0639434,writer,character based on the series created by,\N
+11712618,tt1127884,9,nm0720085,producer,producer,\N
+12796536,tt1159961,10,nm0752633,editor,\N,\N
+12796537,tt1159961,1,nm0004877,archive_footage,\N,"[""Self""]"
+12796542,tt1159961,2,nm0005124,archive_footage,\N,"[""Self""]"
+12796543,tt1159961,3,nm0004894,archive_footage,\N,"[""Self""]"
+12796550,tt1159961,4,nm0353893,actor,\N,"[""Narrator""]"
+12796551,tt1159961,5,nm1344116,writer,screenplay,\N
+12796558,tt1159961,6,nm1154296,producer,producer,\N
+12796559,tt1159961,7,nm2092016,composer,\N,\N
+12796566,tt1159961,8,nm0447762,editor,\N,\N
+12796567,tt1159961,9,nm0623359,editor,\N,\N
+13070128,tt11681250,10,nm0635742,cinematographer,\N,\N
+13070129,tt11681250,1,nm0820053,actress,\N,"[""Agnes""]"
+13070130,tt11681250,2,nm3255459,actress,\N,"[""Eleanor""]"
+13070131,tt11681250,3,nm0544448,actress,\N,"[""Opal""]"
+13070132,tt11681250,4,nm0121620,actress,\N,"[""Greta""]"
+13070133,tt11681250,5,nm0536632,director,\N,\N
+13070134,tt11681250,6,nm2876788,writer,screenplay by,\N
+13070135,tt11681250,7,nm2602433,writer,screenplay by,\N
+13070136,tt11681250,8,nm3808455,producer,producer,\N
+13070137,tt11681250,9,nm0006235,composer,\N,\N
+14199159,tt1204342,10,nm0065100,composer,\N,\N
+14199160,tt1204342,1,nm0010736,actress,\N,"[""Mary""]"
+14199165,tt1204342,2,nm0781981,actor,\N,"[""Gary""]"
+14199166,tt1204342,3,nm0177933,actor,\N,"[""Tex Richman""]"
+14199171,tt1204342,4,nm0429069,actress,\N,"[""CDE Executive""]"
+14199172,tt1204342,5,nm0090386,director,\N,\N
+14199177,tt1204342,6,nm0831557,writer,written by,\N
+14199178,tt1204342,7,nm0001345,writer,based on,\N
+14199182,tt1204342,8,nm0387674,producer,producer,\N
+14199183,tt1204342,9,nm0509414,producer,producer,\N
+15841352,tt12607910,10,nm4983044,director,\N,\N
+15841353,tt12607910,1,nm0461498,actress,\N,\N
+15841354,tt12607910,2,nm1659482,actress,\N,"[""Tina Knowles-Lawson""]"
+15841355,tt12607910,3,nm0419650,actor,\N,"[""Special Appearance""]"
+15841356,tt12607910,4,nm6223040,actress,\N,"[""Blue Ivy Carter""]"
+15841357,tt12607910,5,nm6483324,director,\N,\N
+15841358,tt12607910,6,nm8802062,director,\N,\N
+15841359,tt12607910,7,nm7577540,director,\N,\N
+15841360,tt12607910,8,nm6438942,director,\N,\N
+15841361,tt12607910,9,nm1764613,director,\N,\N
+16765100,tt1294226,10,nm0956374,composer,\N,\N
+16765101,tt1294226,1,nm1415323,actress,\N,"[""Ronnie Miller""]"
+16765111,tt1294226,2,nm2955013,actor,\N,"[""Will Blakelee""]"
+16765112,tt1294226,3,nm0001427,actor,\N,"[""Steve Miller""]"
+16765123,tt1294226,4,nm1544100,actor,\N,"[""Jonah Miller""]"
+16765124,tt1294226,5,nm1455688,director,\N,\N
+16765125,tt1294226,6,nm0817023,writer,screenplay,\N
+16765126,tt1294226,7,nm3491486,writer,screenplay,\N
+16765128,tt1294226,8,nm0316774,producer,producer,\N
+16765129,tt1294226,9,nm0788202,producer,producer,\N
+17860227,tt1334106,10,nm0918083,writer,based on the marvel comics by,\N
+17860228,tt1334106,1,nm0413168,actor,\N,"[""Logan"",""Wolverine""]"
+17860239,tt1334106,2,nm0000630,actor,\N,"[""Victor Creed"",""Sabretooth""]"
+17860240,tt1334106,3,nm1443238,actor,\N,"[""John Wraith""]"
+17860246,tt1334106,4,nm0282649,actor,\N,"[""William Stryker""]"
+17860247,tt1334106,5,nm0849314,director,\N,\N
+17860253,tt1334106,6,nm0973233,writer,\N,\N
+17860254,tt1334106,7,nm1129269,writer,writing,\N
+17860255,tt1334106,8,nm0859471,writer,based on the marvel comics by,\N
+17860256,tt1334106,9,nm1079460,writer,based on the marvel comics by,\N
+19565486,tt14062858,1,nm2740450,director,\N,\N
+19565487,tt14062858,2,nm1243271,producer,producer,\N
+19565488,tt14062858,3,nm1316040,composer,\N,\N
+19565489,tt14062858,4,nm2157365,editor,\N,\N
+19565490,tt14062858,5,nm7255674,production_designer,\N,\N
+21209848,tt14602326,10,nm0000370,writer,based on his Haunted Mansion,\N
+21209849,tt14602326,1,nm0004715,actor,\N,"[""The Host""]"
+21209850,tt14602326,2,nm0378245,actress,\N,"[""The Bride""]"
+21209851,tt14602326,3,nm2023050,actor,\N,"[""The Caretaker""]"
+21209852,tt14602326,4,nm1304328,actress,\N,"[""The Driver""]"
+21209853,tt14602326,5,nm0857130,director,\N,\N
+21209854,tt14602326,6,nm0057321,writer,teleplay by,\N
+21209855,tt14602326,7,nm8566357,writer,teleplay by,\N
+21209856,tt14602326,8,nm0507355,writer,story by,\N
+21209857,tt14602326,9,nm0001345,writer,based on his Muppets,\N
+22001993,tt1485796,10,nm0867768,producer,producer,\N
+22001994,tt1485796,1,nm0413168,actor,\N,"[""P.T. Barnum""]"
+22002003,tt1485796,2,nm0931329,actress,\N,"[""Charity Barnum""]"
+22002004,tt1485796,3,nm1374980,actor,\N,"[""Phillip Carlyle""]"
+22002013,tt1485796,4,nm3918035,actress,\N,"[""Anne Wheeler""]"
+22002014,tt1485796,5,nm1243905,director,\N,\N
+22002023,tt1485796,6,nm0081081,writer,screenplay by,\N
+22002024,tt1485796,7,nm0174374,writer,screenplay by,\N
+22002033,tt1485796,8,nm1858656,producer,producer,\N
+22002034,tt1485796,9,nm0548257,producer,producer,\N
+24325599,tt1571313,10,nm9624979,actor,\N,"[""Kripan""]"
+24325600,tt1571313,1,nm2080328,actress,\N,"[""Mikayla Makoola""]"
+24325609,tt1571313,2,nm2480883,actor,\N,"[""King Duke 'Boomer' Parker"",""King Boomer"",""Boomer""]"
+24325610,tt1571313,3,nm3732491,actor,\N,"[""Mason Makoola""]"
+24325619,tt1571313,4,nm2452327,actor,\N,"[""Lanny""]"
+24325620,tt1571313,5,nm0189137,writer,creator,\N
+24325629,tt1571313,6,nm0389668,writer,creator,\N
+24325630,tt1571313,7,nm1102053,actor,\N,"[""King Brady"",""Brady""]"
+24325639,tt1571313,8,nm0382791,actor,\N,"[""King Boz""]"
+24325640,tt1571313,9,nm4686610,actor,\N,"[""Palace Gaurd""]"
+24954070,tt1604171,10,nm0787427,cinematographer,\N,\N
+24954071,tt1604171,1,nm1631435,actress,\N,"[""Nova Prescott""]"
+24954072,tt1604171,2,nm2973459,actor,\N,"[""Jesse Richter""]"
+24954073,tt1604171,3,nm0633228,actor,\N,"[""Tyler Barso""]"
+24954074,tt1604171,4,nm2836740,actress,\N,"[""Simone Daniels""]"
+24954075,tt1604171,5,nm0638271,director,\N,\N
+24954076,tt1604171,6,nm2251854,writer,written by,\N
+24954077,tt1604171,7,nm0341372,producer,producer,\N
+24954078,tt1604171,8,nm3808455,producer,producer,\N
+24954079,tt1604171,9,nm0527091,composer,\N,\N
+27323131,tt1790809,10,nm0064181,writer,based on characters created by,\N
+27323132,tt1790809,1,nm0000136,actor,\N,"[""Captain Jack Sparrow""]"
+27323133,tt1790809,2,nm0001691,actor,\N,"[""Captain Hector Barbossa""]"
+27323134,tt1790809,3,nm0000849,actor,\N,"[""Captain Salazar""]"
+27323135,tt1790809,4,nm0089217,actor,\N,"[""Will Turner""]"
+27323136,tt1790809,5,nm1461392,director,\N,\N
+27323137,tt1790809,6,nm1650283,director,\N,\N
+27323138,tt1790809,7,nm0622288,writer,screenplay by,\N
+27323139,tt1790809,8,nm0744429,writer,story by,\N
+27323140,tt1790809,9,nm0254645,writer,based on characters created by,\N
+28052939,tt1843230,10,nm0211087,actress,\N,"[""Belle French"",""Belle Gold"",""Belle""]"
+28052940,tt1843230,1,nm0329481,actress,\N,"[""Mary Margaret Blanchard"",""Snow White"",""Queen Snow White""]"
+28052941,tt1843230,2,nm0607185,actress,\N,"[""Emma Swan""]"
+28052942,tt1843230,3,nm0663469,actress,\N,"[""Regina Mills"",""Evil Queen"",""Roni""]"
+28052943,tt1843230,4,nm0001015,actor,\N,"[""Mr. Gold"",""Rumplestiltskin"",""Weaver""]"
+28052944,tt1843230,5,nm0395271,writer,created by,\N
+28052945,tt1843230,6,nm0457736,writer,created by,\N
+28052946,tt1843230,7,nm2765519,actor,\N,"[""Henry Mills"",""Prince Henry""]"
+28052947,tt1843230,8,nm2796047,actor,\N,"[""David Nolan"",""Prince Charming"",""Prince James""]"
+28052948,tt1843230,9,nm1524440,actor,\N,"[""Captain Killian 'Hook' Jones"",""Rogers"",""Captain Hook""]"
+28083751,tt1846442,10,nm0527668,composer,\N,\N
+28083752,tt1846442,1,nm3111874,actress,\N,"[""Miyoko""]"
+28083753,tt1846442,2,nm0576586,actor,\N,"[""Ad Man""]"
+28083754,tt1846442,3,nm0005442,actress,\N,"[""Kate Stanton""]"
+28083755,tt1846442,4,nm0245473,actress,\N,"[""Milk Maid Salesgirl""]"
+28083756,tt1846442,5,nm0371348,director,\N,\N
+28083757,tt1846442,6,nm0578850,writer,teleplay by,\N
+28083758,tt1846442,7,nm0115114,writer,teleplay by,\N
+28083759,tt1846442,8,nm4671079,writer,story by,\N
+28083760,tt1846442,9,nm0628255,producer,producer,\N
+28285524,tt1865769,10,nm4433743,actor,\N,"[""Tony Chiccolini"",""Tony""]"
+28285525,tt1865769,1,nm2913275,actress,\N,"[""Jessie Prescott""]"
+28285526,tt1865769,2,nm2572554,actress,\N,"[""Emma Ross""]"
+28285527,tt1865769,3,nm2624602,actor,\N,"[""Luke Ross""]"
+28285528,tt1865769,4,nm3557613,actor,\N,"[""Ravi Ross""]"
+28285529,tt1865769,5,nm0250518,writer,created by,\N
+28285530,tt1865769,6,nm0048832,writer,created by,\N
+28285531,tt1865769,7,nm0891291,writer,created by,\N
+28285532,tt1865769,8,nm2857655,actress,\N,"[""Zuri Ross""]"
+28285533,tt1865769,9,nm0150255,actor,\N,"[""Bertram"",""Bertram Winkle""]"
+30865562,tt2140373,10,nm0828130,producer,producer,\N
+30865563,tt2140373,1,nm0000668,actress,\N,"[""P.L. Travers""]"
+30865564,tt2140373,2,nm0000158,actor,\N,"[""Walt Disney""]"
+30865565,tt2140373,3,nm4003520,actress,\N,"[""Ginty""]"
+30865566,tt2140373,4,nm0268199,actor,\N,"[""Travers Goff""]"
+30865567,tt2140373,5,nm0359387,director,\N,\N
+30865568,tt2140373,6,nm0545150,writer,written by,\N
+30865569,tt2140373,7,nm0810055,writer,written by,\N
+30865570,tt2140373,8,nm1503097,producer,producer,\N
+30865571,tt2140373,9,nm0654077,producer,producer,\N
+31411363,tt2252938,10,nm0123553,actor,\N,"[""Additional Voices"",""Captain""]"
+31411364,tt2252938,1,nm1442113,actor,\N,"[""Wander"",""Additional Voices"",""Cartoon Wander""]"
+31411365,tt2252938,2,nm0934589,actress,\N,"[""Sylvia"",""Additional Voices"",""Michelle""]"
+31411366,tt2252938,3,nm1584992,actor,\N,"[""Lord Hater"",""Additional Voices"",""Cashier""]"
+31411367,tt2252938,4,nm0444786,actor,\N,"[""Commander Peepers"",""Additional Voices"",""King Bingleborp""]"
+31411368,tt2252938,5,nm0566833,writer,creator,\N
+31411369,tt2252938,6,nm0851317,actor,\N,"[""Additional Voices"",""Masked Lord Dominator"",""Captain Tim""]"
+31411370,tt2252938,7,nm0726184,actor,\N,"[""Emperor Awesome"",""Additional Voices"",""Something the So and So""]"
+31411371,tt2252938,8,nm3644706,actress,\N,"[""Lord Dominator"",""Additional Voices""]"
+31411372,tt2252938,9,nm3086712,actor,\N,"[""Major Threat"",""Additional Voices"",""Jeff""]"
+33463446,tt2980706,10,nm1805074,production_designer,\N,\N
+33463447,tt2980706,1,nm0176981,actor,\N,"[""Dusty Crophopper""]"
+33463448,tt2980706,2,nm0000438,actor,\N,"[""Blade Ranger""]"
+33463449,tt2980706,3,nm0100866,actress,\N,"[""Lil' Dipper""]"
+33463450,tt2980706,4,nm0035664,actor,\N,"[""Maru""]"
+33463451,tt2980706,5,nm0304432,director,\N,\N
+33463452,tt2980706,6,nm0397377,writer,story and screenplay by,\N
+33463453,tt2980706,7,nm0057664,producer,producer,\N
+33463454,tt2980706,8,nm0006183,composer,\N,\N
+33463455,tt2980706,9,nm0007171,editor,\N,\N
+33693385,tt3089630,10,nm0236462,composer,\N,\N
+33693386,tt3089630,1,nm9500254,actor,\N,"[""Artemis Fowl""]"
+33693387,tt3089630,2,nm7107447,actress,\N,"[""Holly Short""]"
+33693388,tt3089630,3,nm1265802,actor,\N,"[""Mulch Diggums""]"
+33693389,tt3089630,4,nm8165603,actress,\N,"[""Juliet""]"
+33693390,tt3089630,5,nm0000110,director,\N,\N
+33693391,tt3089630,6,nm1379619,writer,based on the novel by,\N
+33693392,tt3089630,7,nm0566100,writer,screenplay by,\N
+33693393,tt3089630,8,nm0574217,writer,screenplay by,\N
+33693394,tt3089630,9,nm0388788,producer,producer,\N
+34010034,tt3228774,10,nm1587813,writer,story by,\N
+34010035,tt3228774,1,nm1297015,actress,\N,"[""Estella"",""Cruella""]"
+34010036,tt3228774,2,nm0000668,actress,\N,"[""The Baroness""]"
+34010037,tt3228774,3,nm2181128,actor,\N,"[""Jasper""]"
+34010038,tt3228774,4,nm3236159,actor,\N,"[""Horace""]"
+34010039,tt3228774,5,nm0318916,director,\N,\N
+34010040,tt3228774,6,nm1401416,writer,screenplay by,\N
+34010041,tt3228774,7,nm1110111,writer,screenplay by,\N
+34010042,tt3228774,8,nm0112459,writer,story by,\N
+34010043,tt3228774,9,nm0545150,writer,story by,\N
+37301966,tt4661600,10,nm2659298,production_designer,\N,\N
+37301967,tt4661600,1,nm1865478,actor,\N,"[""All Male Characters""]"
+37301968,tt4661600,2,nm8063275,actress,\N,\N
+37301969,tt4661600,3,nm0710527,actor,\N,\N
+37301970,tt4661600,4,nm4180545,actress,\N,\N
+37301971,tt4661600,5,nm0665396,director,\N,\N
+37301972,tt4661600,6,nm0342430,producer,producer,\N
+37301973,tt4661600,7,nm0004582,composer,\N,\N
+37301974,tt4661600,8,nm0002217,composer,\N,\N
+37301975,tt4661600,9,nm0741758,editor,\N,\N
+37565229,tt4777008,10,nm0052520,writer,"based on: characters from Disney's ""Sleeping Beauty"", story",\N
+37565230,tt4777008,1,nm0001401,actress,\N,"[""Maleficent""]"
+37565231,tt4777008,2,nm1102577,actress,\N,"[""Aurora""]"
+37565232,tt4777008,3,nm6170168,actor,\N,"[""Prince Philip""]"
+37565233,tt4777008,4,nm0000201,actress,\N,"[""Queen Ingrith""]"
+37565234,tt4777008,5,nm1461392,director,\N,\N
+37565235,tt4777008,6,nm0941314,writer,written by,\N
+37565236,tt4777008,7,nm1406764,writer,written by,\N
+37565237,tt4777008,8,nm2873116,writer,written by,\N
+37565238,tt4777008,9,nm0674518,writer,"based on: characters from ""La Belle Au Bois Dormant"" written by",\N
+37707227,tt4846340,10,nm0867768,producer,producer,\N
+37707228,tt4846340,1,nm0378245,actress,\N,"[""Katherine G. Johnson""]"
+37707229,tt4846340,2,nm0818055,actress,\N,"[""Dorothy Vaughan""]"
+37707230,tt4846340,3,nm1847117,actress,\N,"[""Mary Jackson""]"
+37707231,tt4846340,4,nm0000126,actor,\N,"[""Al Harrison""]"
+37707232,tt4846340,5,nm0577647,director,\N,\N
+37707233,tt4846340,6,nm2284377,writer,screenplay by,\N
+37707234,tt4846340,7,nm7446421,writer,based on the book by,\N
+37707235,tt4846340,8,nm1858656,producer,producer,\N
+37707236,tt4846340,9,nm0317642,producer,producer,\N
+38261404,tt5104604,10,nm2262509,producer,producer,\N
+38261405,tt5104604,1,nm0186505,actor,\N,"[""Chief""]"
+38261406,tt5104604,2,nm8659025,actor,\N,"[""Atari""]"
+38261407,tt5104604,3,nm0001570,actor,\N,"[""Rex""]"
+38261408,tt5104604,4,nm0000837,actor,\N,"[""King""]"
+38261409,tt5104604,5,nm0027572,director,\N,\N
+38261410,tt5104604,6,nm0178910,writer,story by,\N
+38261411,tt5104604,7,nm0005403,writer,story by,\N
+38261412,tt5104604,8,nm1440081,writer,story by,\N
+38261413,tt5104604,9,nm0206154,producer,producer,\N
+39408225,tt5613056,1,nm4515518,actor,\N,"[""Content Advisor""]"
+39408226,tt5613056,2,nm0054659,director,\N,\N
+39408227,tt5613056,3,nm3116149,producer,producer,\N
+39408228,tt5613056,4,nm0067751,composer,\N,\N
+39408229,tt5613056,5,nm1733986,cinematographer,director of photography,\N
+39408230,tt5613056,6,nm3485237,cinematographer,director of photography,\N
+39408231,tt5613056,7,nm2204583,editor,\N,\N
+39408232,tt5613056,8,nm2157371,production_designer,\N,\N
+43080428,tt7146812,10,nm0002217,composer,\N,\N
+43080429,tt7146812,1,nm4043618,actor,\N,"[""Ian Lightfoot""]"
+43080430,tt7146812,2,nm0695435,actor,\N,"[""Barley Lightfoot""]"
+43080431,tt7146812,3,nm0000506,actress,\N,"[""Laurel Lightfoot""]"
+43080432,tt7146812,4,nm0818055,actress,\N,"[""The Manticore""]"
+43080433,tt7146812,5,nm0768959,director,\N,\N
+43080434,tt7146812,6,nm1291392,writer,original story by,\N
+43080435,tt7146812,7,nm3268751,writer,original story by,\N
+43080436,tt7146812,8,nm0706032,producer,producer,\N
+43080437,tt7146812,9,nm0004582,composer,\N,\N
+46226375,tt8336340,10,nm0569479,actress,\N,"[""4D-M1N"",""Freya Fenris"",""Jooks""]"
+46226376,tt8336340,1,nm1268478,actor,\N,"[""Kazuda Xiono""]"
+46226377,tt8336340,2,nm0493013,actor,\N,"[""Jarek Yeager""]"
+46226378,tt8336340,3,nm3091777,actor,\N,"[""Neeku Vozo""]"
+46226379,tt8336340,4,nm0569883,actress,\N,"[""Tam Ryvora""]"
+46226380,tt8336340,5,nm2608366,writer,developed by,\N
+46226381,tt8336340,6,nm1396048,writer,created by,\N
+46226382,tt8336340,7,nm1848009,writer,developed by,\N
+46226383,tt8336340,8,nm3741194,actor,\N,"[""Captain Doza"",""Skreek"",""Pirate #4""]"
+46226384,tt8336340,9,nm3609729,actress,\N,"[""Torra Doza""]"
+48048959,tt8980868,1,nm0662088,actress,\N,"[""Purl""]"
+48048960,tt8980868,2,nm4038224,actress,\N,"[""Lacy""]"
+48048961,tt8980868,3,nm2395176,actor,\N,"[""Office Bro""]"
+48048962,tt8980868,4,nm3684545,actor,\N,"[""Office Bro""]"
+48048963,tt8980868,5,nm3986416,director,\N,\N
+48048964,tt8980868,6,nm2689816,writer,story,\N
+48048965,tt8980868,7,nm2394516,writer,story,\N
+48048966,tt8980868,8,nm1740567,producer,producer,\N
+48048967,tt8980868,9,nm1316040,composer,\N,\N
