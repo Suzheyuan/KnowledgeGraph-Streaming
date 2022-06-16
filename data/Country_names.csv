@@ -1,0 +1,126 @@
+,country_id,unique_country
+0,C0,United States
+1,C1,Denmark
+2,C2,France
+3,C3,Sweden
+4,C4,Germany
+5,C5,Belgium
+6,C6,Tunisia
+7,C7,United Kingdom
+8,C8,India
+10,C10,Australia
+12,C12,South Korea
+14,C14,Brazil
+15,C15,Spain
+16,C16,Italy
+17,C17,Nigeria
+19,C19,Egypt
+20,C20,Philippines
+21,C21,China
+22,C22,Chile
+24,C24,Argentina
+25,C25,Israel
+26,C26,Mexico
+27,C27,South Africa
+28,C28,Russia
+29,C29,Austria
+30,C30,Malta
+31,C31,Canada
+32,C32,Japan
+34,C34,Hong Kong
+36,C36,Netherlands
+38,C38,Thailand
+39,C39,Colombia
+43,C43,Mozambique
+44,C44,Singapore
+45,C45,Afghanistan
+47,C47,Indonesia
+48,C48,Ireland
+51,C51,Turkey
+52,C52,Norway
+54,C54,Poland
+55,C55,Hungary
+56,C56,Luxembourg
+58,C58,Romania
+59,C59,Switzerland
+64,C64,Czech Republic
+66,C66,Iran
+67,C67,Kosovo
+69,C69,Greece
+70,C70,Peru
+71,C71,Lebanon
+72,C72,New Zealand
+74,C74,Finland
+77,C77,Portugal
+78,C78,Vietnam
+79,C79,Cambodia
+82,C82,Malaysia
+84,C84,Qatar
+85,C85,Syria
+87,C87,Kuwait
+88,C88,Taiwan
+90,C90,Bulgaria
+91,C91,United Arab Emirates
+92,C92,Pakistan
+94,C94,Liechtenstein
+96,C96,Bahamas
+97,C97,Iceland
+98,C98,East Germany
+99,C99,West Germany
+101,C101,Mauritius
+103,C103,Angola
+105,C105,Algeria
+106,C106,Soviet Union
+110,C110,Saudi Arabia
+115,C115,Ukraine
+116,C116,Ghana
+117,C117,Burkina Faso
+118,C118,Ethiopia
+119,C119,Croatia
+120,C120,Uruguay
+123,C123,Slovakia
+124,C124,Latvia
+126,C126,Venezuela
+127,C127,Albania
+129,C129,Serbia
+130,C130,Namibia
+131,C131,Zimbabwe
+133,C133,Jordan
+136,C136,Bermuda
+137,C137,Ecuador
+138,C138,Morocco
+139,C139,Kazakhstan
+142,C142,Georgia
+144,C144,Kenya
+146,C146,Cayman Islands
+147,C147,Slovenia
+148,C148,Armenia
+149,C149,Mongolia
+150,C150,Costa Rica
+152,C152,Iraq
+154,C154,Senegal
+155,C155,Guatemala
+163,C163,Cameroon
+164,C164,Sri Lanka
+166,C166,Bangladesh
+167,C167,Jamaica
+169,C169,Montenegro
+170,C170,Panama
+173,C173,Azerbaijan
+174,C174,Monaco
+177,C177,Nicaragua
+178,C178,Lithuania
+179,C179,Nepal
+180,C180,Cyprus
+181,C181,Somalia
+182,C182,Sudan
+185,C185,Botswana
+187,C187,Samoa
+188,C188,Cuba
+190,C190,Vatican City
+191,C191,Belarus
+192,C192,French Polynesia
+193,C193,Malawi
+194,C194,Paraguay
+195,C195,Puerto Rico
+196,C196,Uganda
